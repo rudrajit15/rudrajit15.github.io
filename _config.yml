@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Rudrajit Das"
 title_separator          : "-"
 name                     : &name "Rudrajit Das"
-description              : &description "Dual Degree student in Electrical Engineering Department, IIT Bombay"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Dual Degree student at Electrical Engineering Department, IIT Bombay"
+url                      : https://rudrajit15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rudrajit15/rudrajit15.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Rudrajit Das"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Final Year Dual Degree (B.Tech + M.Tech) Student at Electrical Engineering Department, Indian Institute of Technology Bombay (IITB)"
   location         : "Mumbai, India"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "rudrajit1503@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,13 +99,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
