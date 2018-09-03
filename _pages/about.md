@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there,
 
-I am a final year dual degree (B.Tech + M.Tech) student in the Electrical Engineering (EE) Department, Indian Institue of Technology Bombay (IITB), Mumbai, India. I am currently working under the guidance of Prof. Subhasis Chaudhuri on the theoretical aspects of deep learning, specifically large scale optimisation for deep learning using probabilistic techniques.
+I am a final year dual degree (B.Tech + M.Tech) student in the Electrical Engineering (EE) Department, Indian Institue of Technology Bombay (IITB), Mumbai, India. I am working under the guidance of Prof. Subhasis Chaudhuri on some theoretical/mathematical aspects of deep learning for my master's thesis. Currently my focus is on large scale (non-convex) optimisation in deep learning using probabilistic techniques.
 
-My primary interests are in Computer Vision (specifically unsupervised or semi-supervised) and the theoretical understanding of deep learning with respect to optimisation as well as representational power.
+My primary interests lie in the theoretical understanding of deep learning with respect to its representational power, non-convex optimisation as well as deep learning for computer vision (specifically unsupervised or semi-supervised).
 
