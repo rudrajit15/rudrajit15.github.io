@@ -51,6 +51,6 @@ author_profile: true
     * Designed a **bi-directional 3-layer LSTM** model for **sentence compression** by modelling it as a binary classification
       problem (which words to retain/delete). Compared it with the method proposed in “**Sentence
       Compression by Deletion with LSTMs**” by **Google NLP Research** and got **marginally better results**. <br/>
-    * The detailed method and results can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Report). The code can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes).<br/>
+    * The detailed method and results can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/blob/master/Report/AML%20Report.pdf). The code can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes).<br/>
    
     
