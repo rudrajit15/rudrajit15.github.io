@@ -53,7 +53,7 @@ use_math: true
     * Designed a **bi-directional 3-layer LSTM** model for **sentence compression** by modelling it as a binary classification
       problem (which words to retain/delete). Compared it with the method proposed in “**Sentence
       Compression by Deletion with LSTMs**” by **Google NLP Research** and got **marginally better results**. <br/>
-    * The detailed method and results can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/blob/master/Report/AML%20Report.pdf). The code can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes).<br/>
+    * The detailed method and results can be found <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/blob/master/Report/AML%20Report.pdf" style="color: #0000FF">here</a>. The code can be found <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes" style="color: #0000FF">here</a>.<br/>
     
 6. **Speeding up Kernel PCA (KPCA)** (July '17 - Oct '17) <br/>
     **Guide : Prof. Suyash Awate, CSE Department, IIT Bombay** <br/>
@@ -75,6 +75,4 @@ use_math: true
       existence of **several local minima**, choosing a **suitable optimization algorithm** (tried Levenberg–Marquardt,
       Powell’s method, PSO, Genetic algorithms) and finally coding it all up. <br/>
       
-I was also one of the top 200 applicants selected to attend the **PRAIRIE Artificial Intelligence Summer School** (**[PAISS](https://project.inria.fr/paiss/)**) co-organized by **Inria** and **NAVER LABS Europe** in **Grenoble, France** at the end of my 4th year. Here I **presented a poster** (can be found [here](https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf)) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
-
-My favorite website not is <a href="https://project.inria.fr/paiss/" style="color: #CC0000">Google</a>.
+I was also one of the top 200 applicants selected to attend the **PRAIRIE Artificial Intelligence Summer School** (<a href="https://project.inria.fr/paiss/" style="color: #0000FF">**PAISS**</a>) co-organized by **Inria** and **NAVER LABS Europe** in **Grenoble, France** at the end of my 4th year. Here I **presented a poster** (can be found <a href="https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf" style="color: #0000FF">here</a>) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
