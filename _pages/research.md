@@ -74,3 +74,5 @@ use_math: true
       3D image, **formulating a good cost function** (for measuring similarity) in order to mitigate the effect of the
       existence of **several local minima**, choosing a **suitable optimization algorithm** (tried Levenberg–Marquardt,
       Powell’s method, PSO, Genetic algorithms) and finally coding it all up. <br/>
+      
+   I was also one of the top 200 applicants selected to attend the **PRAIRIE Artificial Intelligence Summer School** (**PAISS**) co-organized by **Inria** and **NAVER LABS Europe** in **Grenoble, France** at the end of my 4th year.
