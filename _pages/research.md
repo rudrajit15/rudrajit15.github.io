@@ -19,7 +19,7 @@ author_profile: true
     This is the **first attempt** at index computation for the cross-entropy loss function. <br/>
     * Paper submitted to **AAAI-19**. <br/>
     
- 2. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov ’17 - May ’18) <br/>
+ 2. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
     **Guide : Prof. Suyash Awate, CSE Department, IIT Bombay** <br/>
     * Proposed a **novel SKPCA** algorithm by formulating it as a **constrained optimization problem** with **elastic
       net regularization** in the kernel space. Tested it on **5 real world datasets** and showed that it **outperforms**
@@ -27,3 +27,13 @@ author_profile: true
     * Also presented a **new probabilistic proof** to justify the **existence of sparse solutions** in KPCA using the
       RBF kernel, which is the **first attempt** in this direction. <br/>
     * **Paper accepted** for **oral presentation** in **IEEE ICMLA 2018**. <br/>
+    
+ 3. **Non-linear blind compressed sensing** (June '18 - Present) <br/>
+    **Guide : Prof. Ajit Rajwade, CSE Department, IIT Bombay** <br/>
+    * Working on **blind compressed sensing** (jointly estimating the sparse basis & sparse codes) under **non-linear
+      transformations** of data to make the noise model **Gaussian**, such as the **Anscombe transform** for **Poisson
+      measurements????**. This has not been done before and is **challenging** due to the **non-linearity** and the highly
+      **non-convex nature** of the problem. <br/>
+    * Using Stochastic Gradient Descent (**SGD**) to solve the **non-linear least squares** problem with **L1** penalty
+      (**Lasso**) imposed for sparsity. **BOUND!!!** <br/>
+    
