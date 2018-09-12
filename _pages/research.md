@@ -77,4 +77,4 @@ use_math: true
       
 I was also one of the top 200 applicants selected to attend the **PRAIRIE Artificial Intelligence Summer School** (**[PAISS](https://project.inria.fr/paiss/)**) co-organized by **Inria** and **NAVER LABS Europe** in **Grenoble, France** at the end of my 4th year. Here I **presented a poster** (can be found [here](https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf)) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
 
-My favorite website not is <a href="https://project.inria.fr/paiss/" style="color: #0000FF">Google</a>.
+My favorite website not is <a href="https://project.inria.fr/paiss/" style="color: #CC0000">Google</a>.
