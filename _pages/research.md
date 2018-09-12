@@ -36,4 +36,21 @@ author_profile: true
       **non-convex nature** of the problem. <br/>
     * Using Stochastic Gradient Descent (**SGD**) to solve the **non-linear least squares** problem with **L1** penalty
       (**Lasso**) imposed for sparsity. **BOUND!!!** <br/>
+      
+4. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
+    **Guide : Prof. Amit Sethi, EE Department, IIT Bombay** <br/>
+    * **MIL** is an **unsupervised learning problem** where the label of the entire image (“bag”) is given and the labels
+      of the patches (“instances”) in the image are to be determined from this. <br/>
+    * Currently working on **self-supervised learning** using the proxy tasks of **colorization** and **novel gradient based
+      segmentation** (work in progress!), to learn good **embeddings** which can be used for **deep attention based MIL**. <br/>
+    * Tried **Bayesian Learning** for MIL using features extracted from **auto-encoders** and obtained **results comparable to state of
+      the art** for the **Bisque data set**. However, this method did not generalize well! <br/>
+      
+5. **Sentence Compression Using Deep Learning** (Mar '18 - May '18) <br/>
+    **Guide :  Prof. Sunita Sarawagi, CSE Department, IIT Bombay** <br/>
+    * Designed a **bi-directional 3-layer LSTM** model for **sentence compression** by modelling it as a binary classification
+      problem (which words to retain/delete). Compared it with the method proposed in “**Sentence
+      Compression by Deletion with LSTMs**” by **Google NLP Research** and got **marginally better results**. <br/>
+    * The detailed method and results can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-            LSTMs/blob/master/Report/AML%20Report.pdf). The code can be found [here](https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes).<br/>
+   
     
