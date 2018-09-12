@@ -1,7 +1,5 @@
 ---
 title: "An Efficient Randomized Algorithm to Detect and Escape Saddle Points"
-collection: publications
-permalink: /publication/2018-09-06-paper-saddle-points
 excerpt: 'Submitted for publication to AAAI-19'
 date: 2018-09-06
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
