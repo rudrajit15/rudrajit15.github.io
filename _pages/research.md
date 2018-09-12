@@ -19,7 +19,7 @@ use_math: true
     * Also, in relation to the complexity of the proposed algorithm, obtained approximate **upper and lower bounds**
     for the **expected number of negative eigenvalues** of the Hessian (known as the **index**) at a point, as a function
     of the loss value at that point, for a single hidden layer neural network with the **cross-entropy loss function**.
-    This is the **first attempt** at index computation for the cross-entropy loss function. <br/>
+    This is the **first attempt** at **index computation** for the **cross-entropy** loss function. <br/>
     * Paper submitted to **AAAI-19**. <br/>
     
  2. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
