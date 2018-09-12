@@ -1,15 +1,14 @@
 ---
 title: "An Efficient Randomized Algorithm to Detect and Escape Saddle Points"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'First part of my Master's thesis'
-date: 2009-10-01
-venue: 'Submitted for publication to AAAI-19'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-09-06-paper-saddle-points
+excerpt: 'Submitted for publication to AAAI-19'
+date: 2018-09-06
+venue: 'AAAI-19'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
