@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Long CV]({{ site.url }}/assets/cv.pdf)
+[Long CV]({{ site.url }}/assets/CV_MSR (3).pdf)
