@@ -14,7 +14,8 @@ use_math: true
     * Derived an **upper bound** on the **expected number of iterations**, which is **logarithmic** with respect to the
     number of positive eigenvalues of the Hessian at that point and **faster than linearithmic** with respect to
     the inverse of the magnitude of the minimum eigenvalue of the Hessian. The **complexity wrt the minimum
-    eigenvalue** of the Hessian is **better** than that of existing algorithms. <br/>
+    eigenvalue** of the Hessian is **better** than that of **Perturbed Gradient Descent** (**PGD**) proposed in "**How to escape saddle     points efficiently.**" by Jin et al. (2017) and **CNC-GD** proposed in "**Escaping Saddles with Stochastic
+    Gradients.**" by Daneshmand et al. (2018). <br/>
     * Also, in relation to the complexity of the proposed algorithm, obtained approximate **upper and lower bounds**
     for the **expected number of negative eigenvalues** of the Hessian (known as the index) at a point, as a function
     of the loss value at that point, for a single hidden layer neural network with the **cross-entropy loss function**.
@@ -63,5 +64,14 @@ use_math: true
     * Simulated the above algorithm and obtained almost a **linear speed up** over MATLAB’s “eigs” function with
       **negligible error** in the obtained eigenvectors and eigenvalues. **CODE & REPORT!!!** <br/>
      
-   
-    
+**Research Internship**   
+ 1. **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
+    **Guide : Dr. Patrik Christen and Prof. Dr. Ralph Muller, D-HEST** <br/>
+    * Constructed a **linear model** for **bone re-modelling** with some dependence on initial conditions, obtained a
+      **closed form solution** for it and analyzed its stability using **eigenvalue analysis**, which was **not done earlier**. <br/>
+    * Also built a **directed graphical model** to capture the random nature of the process and simulated it. <br/>
+    * Developed an **automated 2D-3D image registration framework** for histology images from scratch, which
+      included **devising an efficient sampling strategy** to obtain the 2D image across an arbitrary plane of the given
+      3D image, **formulating a good cost function** (for measuring similarity) in order to mitigate the effect of the
+      existence of **several local minima**, choosing a **suitable optimization algorithm** (tried Levenberg–Marquardt,
+      Powell’s method, PSO, Genetic algorithms) and finally coding it all up. <br/>
