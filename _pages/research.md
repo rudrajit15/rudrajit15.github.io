@@ -2,8 +2,8 @@
 layout: archive
 title: "Research"
 permalink: /research/
-use_math: true
 author_profile: true
+use_math: true
 ---
 1.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
     **Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay** <br/>
