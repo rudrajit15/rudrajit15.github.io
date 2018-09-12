@@ -17,7 +17,7 @@ use_math: true
     eigenvalue** of the Hessian is **better** than that of **Perturbed Gradient Descent** (**PGD**) proposed in "**How to escape saddle     points efficiently.**" by Jin et al. (2017) and **CNC-GD** proposed in "**Escaping Saddles with Stochastic
     Gradients.**" by Daneshmand et al. (2018). <br/>
     * Also, in relation to the complexity of the proposed algorithm, obtained approximate **upper and lower bounds**
-    for the **expected number of negative eigenvalues** of the Hessian (known as the index) at a point, as a function
+    for the **expected number of negative eigenvalues** of the Hessian (known as the **index**) at a point, as a function
     of the loss value at that point, for a single hidden layer neural network with the **cross-entropy loss function**.
     This is the **first attempt** at index computation for the cross-entropy loss function. <br/>
     * Paper submitted to **AAAI-19**. <br/>
