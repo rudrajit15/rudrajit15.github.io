@@ -66,7 +66,7 @@ use_math: true
      
 **Research Internship**   
  1. **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
-    **Guide : Dr. Patrik Christen and Prof. Dr. Ralph Muller, D-HEST** <br/>
+    **Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST** <br/>
     * Constructed a **linear model** for **bone re-modelling** with some dependence on initial conditions, obtained a
       **closed form solution** for it and analyzed its stability using **eigenvalue analysis**, which was **not done earlier**. <br/>
     * Also built a **directed graphical model** to capture the random nature of the process and simulated it. <br/>
