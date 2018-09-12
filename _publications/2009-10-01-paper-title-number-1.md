@@ -7,7 +7,7 @@ date: 2018-09-06
 venue: 'AAAI-19'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+AAAI-19 paper.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
