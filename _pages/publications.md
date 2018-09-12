@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
+---
+title: "An Efficient Randomized Algorithm to Detect and Escape Saddle Points"
+permalink: /
+excerpt: 'Submitted for publication to AAAI-19'
+date: 2018-09-06
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+---
 
-{% include base_path %}
-
-{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
