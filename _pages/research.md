@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 use_math: true
 ---
+**Research Experience**
 1.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
     **Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay** <br/>
     * As of now, proposed a **novel randomized iterative** algorithm to detect whether a critical point (i.e. a point where the
