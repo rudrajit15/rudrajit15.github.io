@@ -7,7 +7,7 @@ author_profile: true
 
 1. "**An Efficient Randomized Algorithm to Detect and Escape Saddle Points**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    Submitted for publication to AAAI 2019. Download paper <a href="https://arxiv.org/abs/1809.02497" style="color: #0000FF">here</a>.
+    Submitted for publication to AAAI 2019. Manuscript available on request.
 
 2. "**Sparse Kernel PCA for Outlier Detection**" - **Rudrajit Das**, Aditya Golatkar and Suyash Awate.
 
