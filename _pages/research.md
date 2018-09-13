@@ -38,7 +38,7 @@ use_math: true
       **non-convex nature** of the problem. <br/>
     * Using Stochastic Gradient Descent (**SGD**) to solve the **non-linear least squares** problem with **L1** penalty
       (**Lasso**) imposed for sparsity. <br/>
-    * Obtained an **upper bound** on the **expected value of the squared norm of the error** (difference between the actual signal and         estimated signal) using a Bernoulli sensing matrix, as a function of the ratio of the number of measurements to signal dimension, number of training examples and value of the squared loss part of the objective function. <br/>
+    * Obtained an **upper bound** on the **expected value of the squared norm of the error** (difference between the actual signal and         estimated signal) using a **Bernoulli sensing matrix**, as a function of the ratio of the number of measurements to signal dimension, number of training examples and value of the squared loss part of the objective function. <br/>
       
 4. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
     **Guide : Prof. Amit Sethi, EE Department, IIT Bombay** <br/>
