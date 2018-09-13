@@ -34,11 +34,11 @@ use_math: true
     **Guide : Prof. Ajit Rajwade, CSE Department, IIT Bombay** <br/>
     * Working on **blind compressed sensing** (jointly estimating the sparse basis & sparse codes) under **non-linear
       transformations** of data to make the noise model **Gaussian**, such as the **Anscombe transform** for **Poisson
-      measurements????**. This has not been done before and is **challenging** due to the **non-linearity** and the highly
+      measurements**. This has not been done before and is **challenging** due to the **non-linearity** and the highly
       **non-convex nature** of the problem. <br/>
     * Using Stochastic Gradient Descent (**SGD**) to solve the **non-linear least squares** problem with **L1** penalty
       (**Lasso**) imposed for sparsity. <br/>
-    * Obtained an **upper bound** on the **expected value of the squared norm of the error** (difference between the actual signal and         estimated signal) as a function of the ratio of the number of measurements to signal dimension, number of training examples and the value of the squared loss part of the objective function. <br/>
+    * Obtained an **upper bound** on the **expected value of the squared norm of the error** (difference between the actual signal and         estimated signal) as a function of the ratio of the number of measurements to signal dimension, number of training examples and value of the squared loss part of the objective function. <br/>
       
 4. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
     **Guide : Prof. Amit Sethi, EE Department, IIT Bombay** <br/>
