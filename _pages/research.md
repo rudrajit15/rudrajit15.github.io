@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 use_math: true
 ---
-**Research Experience:**
+**Research Experience :**
 1.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
     **Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay** <br/>
     * As of now, proposed a **novel randomized iterative** algorithm to detect whether a critical point (i.e. a point where the
@@ -63,7 +63,7 @@ use_math: true
     * Simulated the above algorithm and obtained almost a **linear speed up** over MATLAB’s “eigs” function with
       **negligible error** in the obtained eigenvectors and eigenvalues. <a href="https://github.com/rudrajit15/Speeding-up-Kernel-PCA" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Speeding-up-Kernel-PCA/blob/master/Report_Speeding_Up_KPCA.pdf" style="color: #0000FF">[Report]</a><br/>
      
-**Research Internship:**   
+**Research Internship :**   
  1. **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
     **Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST** <br/>
     * Constructed a **linear model** for **bone re-modelling** with some dependence on initial conditions, obtained a
@@ -77,7 +77,7 @@ use_math: true
       
 I was also one of the top 200 applicants selected to attend the **PRAIRIE Artificial Intelligence Summer School** (<a href="https://project.inria.fr/paiss/" style="color: #0000FF">**PAISS**</a>) co-organized by **Inria** and **NAVER LABS Europe** in **Grenoble, France** at the end of my 4th year. Here I **presented a poster** (can be found <a href="https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf" style="color: #0000FF">here</a>) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
 
-**Key Academic Projects:**
+**Key Academic Projects :**
 1. **Using the Kernel Trick in Compressed Sensing** (April '18 - May '18) <br/>
     **Guide : Prof. Animesh Kumar, EE Department, IIT Bombay** <br/>
     * Implemented the paper “Using the kernel trick in compressive sensing: Accurate signal recovery from fewer
