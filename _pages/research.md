@@ -76,3 +76,57 @@ use_math: true
       Powell’s method, PSO, Genetic algorithms) and finally coding it all up. <br/>
       
 I was also one of the top 200 applicants selected to attend the **PRAIRIE Artificial Intelligence Summer School** (<a href="https://project.inria.fr/paiss/" style="color: #0000FF">**PAISS**</a>) co-organized by **Inria** and **NAVER LABS Europe** in **Grenoble, France** at the end of my 4th year. Here I **presented a poster** (can be found <a href="https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf" style="color: #0000FF">here</a>) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
+
+**Key Academic Projects**
+1. **Using the Kernel Trick in Compressed Sensing** (April '18 - May '18) <br/>
+    **Guide : Prof. Animesh Kumar, EE Department, IIT Bombay** <br/>
+    * Implemented the paper “Using the kernel trick in compressive sensing: Accurate signal recovery from fewer
+      measurements.” which performs compressed sensing in higher dimensional feature space by utilizing the
+      kernel trick. The proposed method in the paper projects the data along random Gaussian directions and a
+      probabilistic error bound is provided. <br/>
+    * Extended the method to the case of directions sampled from a Bernoulli distribution, thus making it more
+      hardware realizable. Also provided a theoretical proof for this extension. <a href="https://drive.google.com/file/d/1vCLvMuAeAQvw7ONtXrX6iTaR3POSz1lM/view?usp=sharing" style="color: #0000FF">[Report]</a> <a href="https://drive.google.com/file/d/1q6OYcockXVRTU2mm2J_DvEMRoHD6q_s2/view?usp=sharing" style="color: #0000FF">[Presentation]</a><br/>
+      
+2. **Extractive Text Summarization using Neural Networks** (Sep '17 - Nov '17) <br/>
+    **Guide : Prof. Ganesh Ramakrishnan, CSE Department, IIT Bombay** <br/>
+    * Implemented the paper “A Simple but Tough-to-Beat Baseline for Sentence Embeddings” and used the
+      embeddings to select key sentences (modelled it as binary classification problem) in a document (extractive
+      summarization) by ensembling neural networks. <br/>
+    * Also designed a CNN architecture based on the EMNLP paper “Convolutional Neural Networks for Sentence
+      Classification” which further improved results. <a href="https://github.com/rudrajit15/Document-Summarization" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Document-Summarization/blob/master/Report.pdf" style="color: #0000FF">[Report]</a><br/>
+
+3. **Image segmentation using Grab Cut Algorithm** (Feb '17 - April '17) <br/>
+    **Guide : Prof. Suyash Awate, CSE Department, IIT Bombay** <br/>
+    * Implemented Grab Cut which employs Gaussian Mixture Models (GMMs) along with the Graph Cut
+      algorithm, for interactive extraction of foreground in a complex environment with reduced user interactions. <br/>
+    * Simulated the algorithm on medical and natural images, obtaining good results. <a href="https://github.com/rudrajit15/Image-Segmentation-using-Grab-Cut" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Image-Segmentation-using-Grab-Cut/blob/master/Report/MIP_Project_Report.pdf" style="color: #0000FF">[Report]</a><br/>
+    
+4. **Real Time Tracking of Non-Rigid Objects** (Feb '17 - April '17) <br/>
+    **Guide : Prof. Ajit Rajwade, CSE Department, IIT Bombay** <br/>
+    * Built a real time object tracking model for videos using mean shift algorithm with Bhattacharya coefficient
+      to determine the object trajectory. It was robust to partial occlusion, clutter, rotation & camera position. <br/>
+    * The model was successfully able to track humans, objects, vehicles etc. in real world videos. <a href="https://github.com/rudrajit15/Real-Time-Tracking-of-Non-Rigid-objects-using-Mean-Shift" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Real-Time-Tracking-of-Non-Rigid-objects-using-Mean-Shift/blob/master/Report/CVProjectReport.pdf" style="color: #0000FF">[Report]</a><br/>
+
+5. **Visible Light Communication(Li-Fi) ** (Jan '17 - April '17) <br/>
+    **Guide : Prof. Kumar Appaiah, EE Department, IIT Bombay** <br/>
+    * Built an optical channel to transfer a Manchester encoded data stream synchronously. <br/>
+    * Used Tiva-C micro-controller to transmit encoded data, which was received by a Clock Recovery Circuit;
+      successfully decoded and displayed on an LCD at the receiving micro-controller.<br/>
+    * Synchronously transferred encoded data at speed of 100 kbps over a distance of 3 meters. Also built an
+      asynchronous system with a data rate of 30 kbps over 0.5 meters distance.<br/>
+      
+6. **Flow Based Image Extraction** (Sep '16 - Nov '16) <br/>
+    **Guide : Prof. Suyash Awate & Ajit Rajwade, CSE Department, IIT Bombay** <br/>
+    * Implemented a non-photorealistic rendering method to give stylized effect to images. <br/>
+    * Applied a flow based difference of Gaussian filter for line extraction and then a flow based bilateral filter for
+region smoothing to produce a stylized version of natural images. <a href="https://github.com/rudrajit15/Flow-Based-Image-Abstraction" style="color: #0000FF">[Code]</a> <br/>
+
+7. **Min-cut based approach to find pathways in biological regulatory networks** (Dec '15 - Jan'16) <br/>
+    **Guide : Prof. Supratik Chakraborty, CSE Department, IIT Bombay** <br/>
+    * Worked on implementing an efficient semi-automated approach for finding pathways in systems biological
+      regulatory networks using min-cuts. <br/>
+    * Implemented the Gusfield algorithm in C++ to construct the Gomory Hu tree of the equivalent undirected
+      graph which was used to obtain the min-cut edges between all pairs of nodes of the graph in $O(n)$ time,
+      instead of the naive algorithm which takes $O(n^{2})$ time, thereby providing a linear speed up. <br/>
+    * Also optimized the code in terms of memory by utilizing the sparsity of the adjacency matrix. <br/>
+    
