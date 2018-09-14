@@ -107,7 +107,7 @@ I was also one of the top 200 applicants selected to attend the **PRAIRIE Artifi
       to determine the object trajectory. It was robust to partial occlusion, clutter, rotation & camera position. <br/>
     * The model was successfully able to track humans, objects, vehicles etc. in real world videos. <a href="https://github.com/rudrajit15/Real-Time-Tracking-of-Non-Rigid-objects-using-Mean-Shift" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Real-Time-Tracking-of-Non-Rigid-objects-using-Mean-Shift/blob/master/Report/CVProjectReport.pdf" style="color: #0000FF">[Report]</a><br/>
 
-5. **Visible Light Communication(Li-Fi) ** (Jan '17 - April '17) <br/>
+5. **Visible Light Communication(Li-Fi)** (Jan '17 - April '17) <br/>
     **Guide : Prof. Kumar Appaiah, EE Department, IIT Bombay** <br/>
     * Built an optical channel to transfer a Manchester encoded data stream synchronously. <br/>
     * Used Tiva-C micro-controller to transmit encoded data, which was received by a Clock Recovery Circuit;
