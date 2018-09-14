@@ -47,14 +47,13 @@ use_math: true
     * Currently working on **self-supervised learning** using the proxy tasks of **colorization** and **novel gradient based
       segmentation** (work in progress!), to learn good **embeddings** which can be used for **deep attention based MIL**. <br/>
     * Tried **Bayesian Learning** for MIL using features extracted from **auto-encoders** and obtained **results comparable to state of
-      the art** for the **Bisque data set**. However, this method did not generalize well! **CODE & REPORT!!!** <br/>
+      the art** for the **Bisque data set**. However, this method did not generalize well! <a href="https://github.com/rudrajit15/MIL-for-Breast-Cancer-Histology-Images/blob/master/Report/SRE_Report.pdf" style="color: #0000FF">[Report]</a> <br/>
       
 5. **Sentence Compression Using Deep Learning** (Mar '18 - May '18) <br/>
     **Guide :  Prof. Sunita Sarawagi, CSE Department, IIT Bombay** <br/>
     * Designed a **bi-directional 3-layer LSTM** model for **sentence compression** by modelling it as a binary classification
       problem (which words to retain/delete). Compared it with the method proposed in “**Sentence
-      Compression by Deletion with LSTMs**” by **Google NLP Research** and got **marginally better results**. <br/>
-    * The detailed method and results can be found <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/blob/master/Report/AML%20Report.pdf" style="color: #0000FF">here</a>. The code can be found <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes" style="color: #0000FF">here</a>.<br/>
+      Compression by Deletion with LSTMs**” by **Google NLP Research** and got **marginally better results**. <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/blob/master/Report/AML%20Report.pdf" style="color: #0000FF">[Report]</a><br/>
     
 6. **Speeding up Kernel PCA (KPCA)** (July '17 - Oct '17) <br/>
     **Guide : Prof. Suyash Awate, CSE Department, IIT Bombay** <br/>
@@ -62,7 +61,7 @@ use_math: true
       developed a **fast algorithm for eigenvector computation** in KPCA, **improving time complexity** from **$O(n^{2}p)$**
       to **$O(np^{2})$**, where n is the number of data points and p << n is the rank of the approximated Gram matrix. <br/>
     * Simulated the above algorithm and obtained almost a **linear speed up** over MATLAB’s “eigs” function with
-      **negligible error** in the obtained eigenvectors and eigenvalues. **CODE & REPORT!!!** <br/>
+      **negligible error** in the obtained eigenvectors and eigenvalues. <a href="https://github.com/rudrajit15/Speeding-up-Kernel-PCA" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Speeding-up-Kernel-PCA/blob/master/Report_Speeding_Up_KPCA.pdf" style="color: #0000FF">[Report]</a><br/>
      
 **Research Internship**   
  1. **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
