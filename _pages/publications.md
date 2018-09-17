@@ -11,7 +11,7 @@ author_profile: true
 
 2. "**Sparse Kernel PCA for Outlier Detection**" - **Rudrajit Das**, Aditya Golatkar and Suyash Awate.
 
-    Selected for oral presentation in IEEE ICMLA 2018. Download paper <a href="https://arxiv.org/pdf/1809.02497.pdf" style="color: #0000FF">here</a>.
+    Selected for oral presentation in IEEE ICMLA 2018. Download paper <a href="https://arxiv.org/abs/1809.02497" style="color: #0000FF">here</a>.
 
 3. **iFood Challenge, FGVC Workshop, CVPR 2018** - Parth Kothari^, Arka Sadhu^, Aditya Golatkar^, **Rudrajit Das**^ (^ denotes equal contribution).
 
