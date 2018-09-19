@@ -15,4 +15,5 @@ author_profile: true
 
 3. **iFood Challenge, FGVC Workshop, CVPR 2018** - Parth Kothari^, Arka Sadhu^, Aditya Golatkar^, **Rudrajit Das**^ (^ denotes equal contribution).
 
-    Finished 2nd in the public leaderboard and 3rd in the private leaderboard (Team name : Invincibles). Invited to present our method at       CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
+    Finished 2nd in the public leaderboard and 3rd in the private leaderboard (Team name : Invincibles). <a href="https://www.kaggle.com/c/ifood2018/leaderboard" style="color: #0000FF">Leaderboard Link</a>).
+    Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
