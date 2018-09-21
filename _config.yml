@@ -254,7 +254,6 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-  - jekyll-seo-tag
 gems:
   - jekyll-paginate
   - jekyll-sitemap
