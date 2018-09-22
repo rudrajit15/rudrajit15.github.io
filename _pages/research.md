@@ -22,7 +22,7 @@ use_math: true
     This is the **first attempt** at **index computation** for the **cross-entropy** loss function. <br/>
     * Paper submitted to **AAAI-19**. <br/>
     
- 2.  **Existence of Sparse Basis for Kernels of Binary Classification Networks? - Master’s Thesis** (Sep '18 - Present) <br/>
+2.  **Existence of Sparse Basis for Kernels of Binary Classification Networks? - Master’s Thesis** (Sep '18 - Present) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
     * Working on a probabilistic proof to suggest the possibility of the existence of **sparse basis** using **few training points**,         for the final layer of binary classfication networks (before sigmoid) with the **cross-entropy loss**. <br/>
     * Hypothesis corroborated by experimental results. <br/>
@@ -62,7 +62,7 @@ use_math: true
       problem (which words to retain/delete). Compared it with the method proposed in “**Sentence
       Compression by Deletion with LSTMs**” by **Google NLP Research** and got **marginally better results**. <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/blob/master/Report/AML%20Report.pdf" style="color: #0000FF">[Report]</a><br/>
     
-6. **Speeding up Kernel PCA (KPCA)** (July '17 - Oct '17) <br/>
+7. **Speeding up Kernel PCA (KPCA)** (July '17 - Oct '17) <br/>
     **Guide : Prof. Suyash Awate, CSE Department, IIT Bombay** <br/>
     * Used the **improved Nyström method** to obtain a **low rank** approximation to the Gram matrix. Using this,
       developed a **fast algorithm for eigenvector computation** in KPCA, **improving time complexity** from **$O(n^{2}p)$**
