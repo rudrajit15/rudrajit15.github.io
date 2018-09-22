@@ -14,8 +14,8 @@ use_math: true
     * Derived an upper bound on the expected number of iterations, which is logarithmic with respect to the
     number of positive eigenvalues of the Hessian at that point and faster than linearithmic with respect to
     the inverse of the magnitude of the minimum eigenvalue of the Hessian. The **complexity wrt the minimum
-    eigenvalue of the Hessian is better** than that of Perturbed Gradient Descent (**PGD**) proposed in "**How to escape saddle points efficiently.**" by Jin et al. (2017) and **CNC-GD** proposed in "**Escaping Saddles with Stochastic
-    Gradients.**" by Daneshmand et al. (2018). <br/>
+    eigenvalue of the Hessian is better** than that of Perturbed Gradient Descent (PGD) proposed in "How to escape saddle points efficiently." by Jin et al. (2017) and CNC-GD proposed in "Escaping Saddles with Stochastic
+    Gradients." by Daneshmand et al. (2018). <br/>
     * Also, in relation to the complexity of the proposed algorithm, obtained approximate upper and lower bounds
     for the expected number of negative eigenvalues of the Hessian (known as the index) at a point, as a function
     of the loss value at that point, for a single hidden layer neural network with the cross-entropy loss function.
@@ -32,7 +32,7 @@ use_math: true
  3. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
     *Guide : Prof. Suyash Awate, CSE Department, IIT Bombay* <br/>
     * Proposed a novel SKPCA algorithm by formulating it as a constrained optimization problem with elastic
-      net regularization in the kernel space, solving it using alternating minimization. Tested it on 5 real world datasets and    showed that it **outperforms** the recent SKPCA method proposed in "**Sparse kernel principal component analysis based on elastic net regularization.**" by Wang et al. (2016) which uses ADMM, with lesser parameter tuning. <br/>
+      net regularization in the kernel space, solving it using alternating minimization. Tested it on 5 real world datasets and    showed that it **outperforms** the recent SKPCA method proposed in "Sparse kernel principal component analysis based on elastic net regularization." by Wang et al. (2016) which uses ADMM, with lesser parameter tuning. <br/>
     * Also presented a new probabilistic proof to justify the existence of sparse solutions in KPCA using the
       RBF kernel, which is the **first attempt** in this direction. <br/>
     * Paper accepted for **oral presentation** in **IEEE ICMLA 2018**. <a href="https://github.com/rudrajit15/Sparse-Kernel-PCA-for-outlier-detection/tree/master/skpca_codes" style="color: #0000FF">[Code]</a><br/>
