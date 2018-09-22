@@ -7,7 +7,7 @@ use_math: true
 ---
 **Research Experience :**
 1.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
-    **Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay** <br/>
+    *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
     * As of now, proposed a **novel randomized iterative** algorithm to detect whether a critical point (i.e. a point where the
     derivatives of the loss function with respect to the parameters are zero) is a local minima or a **saddle point**
     and to escape that point if it is a **saddle point**, without requiring to compute the **Hessian**. <br/>
@@ -22,7 +22,14 @@ use_math: true
     This is the **first attempt** at **index computation** for the **cross-entropy** loss function. <br/>
     * Paper submitted to **AAAI-19**. <br/>
     
- 2. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
+ 2.  **Existence of Sparse Basis for Kernels of Binary Classification Networks? - Master’s Thesis** (Sep '18 - Present) <br/>
+    *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
+    * Working on a probabilistic proof to suggest the possibility of the existence of **sparse basis** using **few training points**, for the final layer of binary classfication networks (before sigmoid) with the **cross-entropy loss**. <br/>
+    * Hypothesis corroborated by experimental results. <br/>
+    * This has an **important implication** - even though a large number of training examples might be required to train modern deep learning networks, perhaps the **learnt kernel** (i.e. the transformation before the sigmoid layer, not the convolutional filters!) can **generalize well** using only a **few of the training examples**.
+    * More details to be added soon!
+    
+ 3. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
     **Guide : Prof. Suyash Awate, CSE Department, IIT Bombay** <br/>
     * Proposed a **novel SKPCA** algorithm by formulating it as a **constrained optimization problem** with **elastic
       net regularization** in the kernel space, solving it using **alternating minimization**. Tested it on **5 real world datasets** and    showed that it **outperforms** the recent SKPCA method proposed in "**Sparse kernel principal component analysis based on elastic net regularization.**" by Wang et al. (2016) which uses ADMM, with **lesser parameter tuning**. <br/>
@@ -30,7 +37,7 @@ use_math: true
       RBF kernel, which is the **first attempt** in this direction. <br/>
     * **Paper accepted** for **oral presentation** in **IEEE ICMLA 2018**. <a href="https://github.com/rudrajit15/Sparse-Kernel-PCA-for-outlier-detection/tree/master/skpca_codes" style="color: #0000FF">[Code]</a><br/>
     
- 3. **Non-linear blind compressed sensing** (June '18 - Present) <br/>
+ 4. **Non-linear blind compressed sensing** (June '18 - Present) <br/>
     **Guide : Prof. Ajit Rajwade, CSE Department, IIT Bombay** <br/>
     * Working on **blind compressed sensing** (jointly estimating the sparse basis & sparse codes) under **non-linear
       transformations** of data to make the noise model **Gaussian**, such as the **Anscombe transform** for **Poisson
@@ -40,7 +47,7 @@ use_math: true
       (**Lasso**) imposed for sparsity. <br/>
     * Obtained an **upper bound** on the **expected value of the squared norm of the error** (difference between the actual signal and         estimated signal) using a **Bernoulli sensing matrix**, as a function of the ratio of the number of measurements to signal dimension, number of training examples and value of the squared loss part of the objective function. <br/>
       
-4. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
+5. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
     **Guide : Prof. Amit Sethi, EE Department, IIT Bombay** <br/>
     * **MIL** is an **unsupervised learning problem** where the label of the entire image (“bag”) is given and the labels
       of the patches (“instances”) in the image are to be determined from this. <br/>
@@ -49,7 +56,7 @@ use_math: true
     * Tried **Bayesian Learning** for MIL using features extracted from **auto-encoders** and obtained **results comparable to state of
       the art** for the **Bisque data set**. However, this method did not generalize well! <a href="https://github.com/rudrajit15/MIL-for-Breast-Cancer-Histology-Images/blob/master/Report/SRE_Report.pdf" style="color: #0000FF">[Report]</a> <br/>
       
-5. **Sentence Compression Using Deep Learning** (Mar '18 - May '18) <br/>
+6. **Sentence Compression Using Deep Learning** (Mar '18 - May '18) <br/>
     **Guide :  Prof. Sunita Sarawagi, CSE Department, IIT Bombay** <br/>
     * Designed a **bi-directional 3-layer LSTM** model for **sentence compression** by modelling it as a binary classification
       problem (which words to retain/delete). Compared it with the method proposed in “**Sentence
