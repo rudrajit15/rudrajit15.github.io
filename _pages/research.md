@@ -26,7 +26,7 @@ use_math: true
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
     * Working on a probabilistic proof to suggest the possibility of the existence of **sparse basis** using **few training points**,         for the final layer of binary classfication networks (before sigmoid) with the **cross-entropy loss**. <br/>
     * Hypothesis corroborated by experimental results. <br/>
-    * This has an **important implication** - even though a large number of training examples might be required to train modern deep           learning networks, perhaps the **learnt kernel** (i.e. the transformation before the sigmoid layer, not the convolutional    filters!) can **generalize well** using only a **few of the training examples**.
+    * This has an **important implication** - even though a large number of training examples might be required to train modern deep           learning networks, perhaps the **learnt kernel** (i.e. the transformation before the sigmoid layer, not the convolutional    filters!) can **generalize well** using only a **few of the training examples**. <br/>
     * More details to be added soon!
     
  3. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
