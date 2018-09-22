@@ -32,7 +32,7 @@ use_math: true
  3. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
     *Guide : Prof. Suyash Awate, CSE Department, IIT Bombay* <br/>
     * Proposed a novel SKPCA algorithm by formulating it as a constrained optimization problem with elastic
-      net regularization in the kernel space, solving it using alternating minimization. Tested it on 5 real world datasets and    showed that it **outperforms** the recent SKPCA method proposed in "Sparse kernel principal component analysis based on elastic net regularization." by Wang et al. (2016) which uses ADMM, with lesser parameter tuning. <br/>
+      net regularization in the kernel space, solving it using alternating minimization. Tested it on 5 real world datasets and    showed that it outperforms the recent SKPCA method proposed in "Sparse kernel principal component analysis based on elastic net regularization." by Wang et al. (2016) which uses ADMM, with lesser parameter tuning. <br/>
     * Also presented a new probabilistic proof to justify the existence of sparse solutions in KPCA using the
       RBF kernel, which is the **first attempt** in this direction. <br/>
     * Paper accepted for **oral presentation** in **IEEE ICMLA 2018**. <a href="https://github.com/rudrajit15/Sparse-Kernel-PCA-for-outlier-detection/tree/master/skpca_codes" style="color: #0000FF">[Code]</a><br/>
