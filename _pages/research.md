@@ -22,7 +22,7 @@ use_math: true
     This is the **first attempt at index computation for the cross-entropy loss function**. <br/>
     * Paper submitted to **AAAI-19**. <br/>
     
-2.  **Existence of Sparse Basis for Kernels of Binary Classification Networks? - Master’s Thesis** (Sep '18 - Present) <br/>
+2.  **On the Existence of Sparse Bases for Deep Learning Kernels - Master’s Thesis** (Sep '18 - Present) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
     * Derived a probabilistic proof to suggest the possibility of the existence of sparse basis using few training points, for the final layer of binary classfication networks before sigmoid (i.e. the transformed input which is linearly separable and the kernel being the transformation function) with the cross-entropy loss. The number of training points constituting the aforementioned sparse basis is much lesser than the dimension of the transformed input (or the dimension of the co-domain of the kernel function).<br/>
     * Hypothesis corroborated by experimental results. <br/>
