@@ -27,7 +27,7 @@ use_math: true
     * Derived a probabilistic proof to suggest the possibility of the existence of sparse basis using few training points, for the final layer of binary classfication networks before sigmoid (i.e. the transformed input which is linearly separable and the kernel being the transformation function) with the cross-entropy loss. The number of training points constituting the aforementioned sparse basis is much lesser than the dimension of the transformed input (or the dimension of the co-domain of the kernel function).<br/>
     * Hypothesis corroborated by experimental results. <br/>
     * This has an **important implication** - even though a large number of examples might be required to train deep learning networks, perhaps the **learnt kernel** can **generalize well** using only a **few of the training examples**. <br/>
-    * Paper submitted to **AAAI-19**. <br/>
+    * Paper submitted to **AISTATS 2019**. <br/>
     
  3. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
     *Guide : Prof. Suyash Awate, CSE Department, IIT Bombay* <br/>
