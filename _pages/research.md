@@ -64,7 +64,7 @@ use_math: true
     *Guide : Prof. Suyash Awate, CSE Department, IIT Bombay* <br/>
     * Used the improved Nyström method to obtain a low rank approximation to the Gram matrix. Using this,
       developed a fast algorithm for eigenvector computation in KPCA, improving time complexity from $O(n^{2}p)$
-      to $O(np^{2})$, where n is the number of data points and p << n is the rank of the approximated Gram matrix. <br/>
+      to $O(np^{2})$, where n is the number of data points and $p << n$ is the rank of the approximated Gram matrix. <br/>
     * Simulated the above algorithm and obtained almost a linear speed up over MATLAB’s “eigs” function with
       negligible error in the obtained eigenvectors and eigenvalues. <a href="https://github.com/rudrajit15/Speeding-up-Kernel-PCA" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Speeding-up-Kernel-PCA/blob/master/Report_Speeding_Up_KPCA.pdf" style="color: #0000FF">[Report]</a><br/>
      
