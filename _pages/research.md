@@ -42,7 +42,7 @@ use_math: true
     * Working on an algorithm for non-linear blind compressed sensing (jointly estimating the sparse basis & sparse codes) which is a non-convex problem as well as its theoretical analysis, which is an open problem. <br/>
     * Obtained a novel multiplicative update rule (like in NMF) to maintain positivity constraints of the sparse basis and
 sparse codes. 
-   * Currently working on deriving an upper bound on the algorithm’s expected value of the squared norm of the error (difference between the actual and estimated signal) using a Bernoulli sensing matrix and on the rate of decrease of the objective function with the number of iterations. <br/>
+    * Currently working on deriving an upper bound on the algorithm’s expected value of the squared norm of the error (difference between the actual and estimated signal) using a Bernoulli sensing matrix and on the rate of decrease of the objective function with the number of iterations. <br/>
       
 5. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
     *Guide : Prof. Amit Sethi, EE Department, IIT Bombay* <br/>
