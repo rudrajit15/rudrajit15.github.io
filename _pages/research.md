@@ -39,11 +39,10 @@ use_math: true
     
  4. **Non-linear blind compressed sensing** (June '18 - Present) <br/>
     *Guide : Prof. Ajit Rajwade, CSE Department, IIT Bombay* <br/>
-    * Working on an algorithm for blind compressed sensing (jointly estimating the sparse basis & sparse codes) under non-linear
-      transformations of data to make the noise model Gaussian, such as the Anscombe transform for Poisson
-      measurements. This has not been done before and is challenging due to the non-linearity and the highly
-      non-convex nature of the problem. <br/>
-    * Obtained an upper bound on the algorithm's expected value of the squared norm of the error (difference between the actual signal and estimated signal) using a Bernoulli sensing matrix, as a function of the ratio of the number of measurements to signal dimension, number of training examples and value of the squared loss part of the objective function. <br/>
+    * Working on an algorithm for non-linear blind compressed sensing (jointly estimating the sparse basis & sparse codes) which is a non-convex problem as well as its theoretical analysis, which is an open problem. <br/>
+    * Obtained a novel multiplicative update rule (like in NMF) to maintain positivity constraints of the sparse basis and
+sparse codes. 
+   * Currently working on deriving an upper bound on the algorithm’s expected value of the squared norm of the error (difference between the actual and estimated signal) using a Bernoulli sensing matrix and on the rate of decrease of the objective function with the number of iterations. <br/>
       
 5. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
     *Guide : Prof. Amit Sethi, EE Department, IIT Bombay* <br/>
