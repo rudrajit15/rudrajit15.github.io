@@ -14,4 +14,6 @@ I'm a final year dual degree (B.Tech + M.Tech) student in the Department of Elec
 
 My primary interests are the design of efficient (especially probabilistic) algorithms for machine learning problems with provable performance guarantees as well as the theoretical understanding of deep learning with respect to its representational power, non-convex optimisation etc. Besides, I'm also interested in deep learning for computer vision, specifically unsupervised and semi-supervised methods.
 
+In general, I like solving mathematical problems based on linear algebra, probability & statistics, optimisation, etc. which are ubiquitous in machine learning.
+
 You can check out my CV [here]({{ site.url }}/assets/CV_github.pdf).
