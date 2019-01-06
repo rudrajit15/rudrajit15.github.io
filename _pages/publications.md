@@ -8,11 +8,11 @@ use_math: true
 
 1. "**On the Existence of Sparse Bases for Deep Learning Kernels**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    Submitted for publication to AISTATS 2019. Manuscript available on request.
+    Manuscript available on request.
     
 2. "**An Efficient Randomized Algorithm to Detect and Escape Saddle Points**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    Submitted for publication to AAAI 2019. Manuscript available on request.
+    Manuscript available on request.
 
 3. "**Sparse Kernel PCA for Outlier Detection**" - **Rudrajit Das**, Aditya Golatkar and Suyash Awate.
 
