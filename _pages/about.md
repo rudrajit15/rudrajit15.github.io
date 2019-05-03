@@ -14,6 +14,9 @@ I'm a final year dual degree (combined bachelor's and master's degree) student i
 
 My primary interests are the design of efficient (especially probabilistic) algorithms for machine learning problems with provable performance guarantees as well as the theoretical understanding of deep learning with respect to the learnt representations, non-convex optimization etc. Besides, I'm also interested in deep learning for computer vision, specifically unsupervised and semi-supervised methods.
 
-In general, I like solving mathematical problems based on linear algebra, probability & statistics, optimization, etc. which are ubiquitous in machine learning. {% You can check out my CV [here]({{ site.url }}/assets/CV_github.pdf). %}
+In general, I like solving mathematical problems based on linear algebra, probability & statistics, optimization, etc. which are ubiquitous in machine learning. 
+{% comment %}
+You can check out my CV [here]({{ site.url }}/assets/CV_github.pdf).
+{% endcomment %}
 
 I'm moving to the University of Texas at Austin to pursue a PhD degree in Computer Science (beginning Fall 2019).
