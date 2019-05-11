@@ -8,7 +8,7 @@ use_math: true
 
 1. "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    To be submitted to NeurIPS 2019. Manuscript available on request.
+    Submitted to NeurIPS 2019. Manuscript available on request.
     
 2. "**A Saddle Point Escaping Algorithm and Extremal Eigenvalue Analysis of the Hessian for the Cross-Entropy Loss**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
