@@ -10,9 +10,9 @@ use_math: true
 
     Submitted to NeurIPS 2019. Manuscript available on request.
     
-2. "**A Saddle Point Escaping Algorithm and Extremal Eigenvalue Analysis of the Hessian for the Cross-Entropy Loss**" - **Rudrajit Das** and Subhasis Chaudhuri.
+2. "**Extremal Eigenvalue Analysis of the Hessian and a Learning Rate Choice for Stochastic Gradient Descent**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    To be submitted to SIAM Journal on Mathematics of Data Science (SIMODS). Manuscript available on request.
+    Submitted to SIAM Journal on Mathematics of Data Science (SIMODS). Manuscript available on request.
     
 3. "**Nonlinear Blind Compressed Sensing under Signal-Dependent Noise**" - **Rudrajit Das** and Ajit Rajwade.
 
@@ -26,3 +26,5 @@ use_math: true
 
     Finished $2^{nd}$ in the public leaderboard and $3^{rd}$ in the private leaderboard (Team name : Invincibles). <a href="https://www.kaggle.com/c/ifood2018/leaderboard" style="color: #0000FF">Leaderboard Link</a>.
     Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
+
+6. **Some Probabilistically Provable Aspects of Neural Networks with respect to their Learned Representations and Optimization** - Bachelor's & Master's Thesis.
