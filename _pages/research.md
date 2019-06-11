@@ -19,7 +19,7 @@ use_math: true
     * In relation to this, presented a technique to obtain **probabilistic bounds for the extremal eigenvalues of the Hessian** at a point, as a function of the loss value at that point. The technique is based on **matrix concentration inequalities** and the computations are performed for a single hidden layer neural network with the cross-entropy loss function. In theory, the technique can be extended to more complicated architectures and loss functions, provided the Hessian obeys a certain structure. 
     * Secondly, proposed a method to **automatically set the learning rate in mini-batch stochastic gradient descent**, a core part
 of which, also relies on matrix concentration inequalities. Two schemes have been proposed - one in which the **batch size is kept fixed** and another one in which the **batch size is increased with the number of epochs** allowing us to choose much higher learning rates than those in the first scheme, potentially leading to **faster training**.
-   * Paper submitted to **SIAM Journal on Mathematics of Data Science (SIMODS)**.
+    * Paper submitted to **SIAM Journal on Mathematics of Data Science (SIMODS)**.
     
 3.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
