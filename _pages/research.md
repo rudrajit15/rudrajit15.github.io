@@ -8,41 +8,30 @@ use_math: true
 **Research Experience:**
 1. **On the Separability of Classes with the Cross-Entropy Loss Function** (Jan '19 - May '19) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
-    * Analysis of the **separability of classes** attained with the **cross-entropy loss** function for classification problems by theoretically analyzing the **intra-class distance** and **inter-class distance** (i.e. the distance between any two points belonging to the same class and different classes, respectively) in the feature space, i.e. the space of representations learned by neural networks. 
-    * Specifically, considered an arbitrary network architecture having a fully connected final layer with Softmax activation and trained using the cross-entropy loss. Derived expressions for the value and the distribution of the squared L2 norm of the product of a network dependent matrix and a random intra-class and inter-class distance vector (i.e. the vector between any two points belonging to the same class and different classes), respectively, in the learned feature space (or the transformation of the original data) just before Softmax activation, as a function of the cross-entropy loss value. 
-    * Main result of the analysis is the derivation of a **lower bound for the probability with which the inter-class distance is more than the intra-class distance** in this feature space, as a function of the loss value. As per intuition, the probability with which the inter-class distance is more than the intra-class distance decreases as the loss value increases, i.e. **the classes are better separated when the loss value is low**.
-    * First work of theoretical nature trying to explain the separability of classes in the feature space learned by neural networks trained with the cross-entropy loss function. Paper submitted to **NeurIPS 2019**.
+    * Analysis of the **separability of classes** attained with the **cross-entropy loss** function for classification problems by theoretically analyzing the **intra-class distance** and **inter-class distance** (i.e. the distance between any two points belonging to the same class and different classes, respectively) in the feature space, i.e. the space of representations learned by neural networks. <br/>
+    * Specifically, considered an arbitrary network architecture having a fully connected final layer with Softmax activation and trained using the cross-entropy loss. Derived expressions for the value and the distribution of the squared L2 norm of the product of a network dependent matrix and a random intra-class and inter-class distance vector (i.e. the vector between any two points belonging to the same class and different classes), respectively, in the learned feature space (or the transformation of the original data) just before Softmax activation, as a function of the cross-entropy loss value. <br/>
+    * Main result of the analysis is the derivation of a **lower bound for the probability with which the inter-class distance is more than the intra-class distance** in this feature space, as a function of the loss value. As per intuition, the probability with which the inter-class distance is more than the intra-class distance decreases as the loss value increases, i.e. **the classes are better separated when the loss value is low**. <br/>
+    * First work of theoretical nature trying to explain the separability of classes in the feature space learned by neural networks trained with the cross-entropy loss function. Paper submitted to **NeurIPS 2019**. <br/>
     
  2. **Extremal Eigenvalue Analysis of the Hessian and a Learning Rate Choice for Stochastic Gradient Descent** (Jan '19 - June '19) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
-    * Analysis of the **extremal (maximum and minimum) eigenvalues of the Hessian** matrix is of significance, especially for setting the learning rate/step-size in gradient based optimization algorithms and to gain insight about the performance of saddle point escaping algorithms. 
-    * In relation to this, presented a technique to obtain **probabilistic bounds for the extremal eigenvalues of the Hessian** at a point, as a function of the loss value at that point. The technique is based on **matrix concentration inequalities** and the computations are performed for a single hidden layer neural network with the cross-entropy loss function. In theory, the technique can be extended to more complicated architectures and loss functions, provided the Hessian obeys a certain structure. 
+    * Analysis of the **extremal (maximum and minimum) eigenvalues of the Hessian** matrix is of significance, especially for setting the learning rate/step-size in gradient based optimization algorithms and to gain insight about the performance of saddle point escaping algorithms. <br/>
+    * In relation to this, presented a technique to obtain **probabilistic bounds for the extremal eigenvalues of the Hessian** at a point, as a function of the loss value at that point. The technique is based on **matrix concentration inequalities** and the computations are performed for a single hidden layer neural network with the cross-entropy loss function. In theory, the technique can be extended to more complicated architectures and loss functions, provided the Hessian obeys a certain structure. <br/>
     * Secondly, proposed a method to **automatically set the learning rate in mini-batch stochastic gradient descent**, a core part
-of which, also relies on matrix concentration inequalities. Two schemes have been proposed - one in which the **batch size is kept fixed** and another one in which the **batch size is increased with the number of epochs** allowing us to choose much higher learning rates than those in the first scheme, potentially leading to **faster training**.
-    * Paper submitted to **SIAM Journal on Mathematics of Data Science (SIMODS)**.
+of which, also relies on matrix concentration inequalities. Two schemes have been proposed - one in which the **batch size is kept fixed** and another one in which the **batch size is increased with the number of epochs** allowing us to choose much higher learning rates than those in the first scheme, potentially leading to **faster training**. <br/>
+    * Paper submitted to **SIAM Journal on Mathematics of Data Science (SIMODS)**. <br/>
     
-3.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
+3.  **A Randomized Algorithm to Detect and Escape Saddle Points** (Aug '18 - Mar '19) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
-    * As of now, proposed a novel randomized iterative algorithm to detect whether a critical point (i.e. a point where the
-    derivatives of the loss function with respect to the parameters are zero) is a local minima or a saddle point
-    and to escape that point if it is a saddle point, without requiring to compute the Hessian. <br/>
-    * Derived an upper bound on the expected number of iterations, which is logarithmic with respect to the
-    number of positive eigenvalues of the Hessian at that point and faster than linearithmic with respect to
-    the inverse of the magnitude of the minimum eigenvalue of the Hessian. The **complexity wrt the minimum
-    eigenvalue of the Hessian is better** than that of Perturbed Gradient Descent (PGD) proposed in "How to escape saddle points efficiently." by Jin et al. (2017) and CNC-GD proposed in "Escaping Saddles with Stochastic
-    Gradients." by Daneshmand et al. (2018). <br/>
-    * Also, in relation to the complexity of the proposed algorithm, obtained approximate upper and lower bounds
-    for the expected number of negative eigenvalues of the Hessian (known as the index) at a point, as a function
-    of the loss value at that point, for a single hidden layer neural network with the cross-entropy loss function.
-    This is the **first attempt at index computation for the cross-entropy loss function**. <br/>
-    * Paper submitted to **AAAI-19**. <br/>
+    * Proposed a **randomized iterative algorithm** to **detect** whether a critical point (i.e. a point where the derivatives of the loss function with respect to the parameters are zero) is a local minima or a **saddle point** and to **escape** that point if it is a saddle point, without requiring to compute the **Hessian**. <br/>
+    * Essentially, the algorithm tries to find the direction corresponding to the **minimum eigenvalue of the Hessian** (without computing or storing it) by the use of **iid random samples** which leaves ample scope for **parallelization** of the computations involved in each iteration. <br/>
+    * Its time complexity is **logarithmic wrt the dimension** and **approximately linear wrt the inverse of the magnitude of the minimum (negative) eigenvalue of the Hessian**. An upper bound for the number of random samples is also derived. <a href="https://drive.google.com/file/d/1Ecyn1ClyBC1lnpuCim0BxUskDfiFew-a/view" style="color: #0000FF">[Link]</a> <br/>
     
-4.  **On the Existence of Sparse Bases for Deep Learning Kernels - Master’s Thesis** (Sep '18 - Present) <br/>
+4.  **On the Existence of Sparse Bases for Deep Learning Kernels** (Aug '18 - Sep '18) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
     * Derived a probabilistic proof to suggest the possibility of the existence of sparse basis using few training points, for the final layer of binary classification networks before sigmoid (i.e. the transformed input which is linearly separable and the kernel being the transformation function) with the cross-entropy loss. The number of training points constituting the aforementioned sparse basis is much lesser than the dimension of the transformed input (or the dimension of the co-domain of the kernel function).<br/>
     * Hypothesis corroborated by experimental results. <br/>
-    * This has an **important implication** - even though a large number of examples might be required to train deep learning networks, perhaps the **learnt kernel** can **generalize well** using only a **few of the training examples**. <br/>
-    * Paper submitted to **AISTATS 2019**. <br/>
+    * This has an **important implication** - even though a large number of examples might be required to train deep learning networks, perhaps the **learnt kernel** can **generalize well** using only a **few of the training examples**. <a href="https://drive.google.com/file/d/1XnLKB8t8iNlR_PLlDJWXiMCkkRrCKP89/view" style="color: #0000FF">[Link]</a> <br/>
     
  5. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
     *Guide : Prof. Suyash Awate, CSE Department, IIT Bombay* <br/>
