@@ -5,8 +5,23 @@ permalink: /research/
 author_profile: true
 use_math: true
 ---
-**Research Experience :**
-1.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
+**Research Experience:**
+1. **On the Separability of Classes with the Cross-Entropy Loss Function** (Jan '19 - May '19) <br/>
+    *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
+    * Analysis of the **separability of classes** attained with the **cross-entropy loss** function for classification problems by theoretically analyzing the **intra-class distance** and **inter-class distance** (i.e. the distance between any two points belonging to the same class and different classes, respectively) in the feature space, i.e. the space of representations learned by neural networks. 
+    * Specifically, considered an arbitrary network architecture having a fully connected final layer with Softmax activation and trained using the cross-entropy loss. Derived expressions for the value and the distribution of the squared L2 norm of the product of a network dependent matrix and a random intra-class and inter-class distance vector (i.e. the vector between any two points belonging to the same class and different classes), respectively, in the learned feature space (or the transformation of the original data) just before Softmax activation, as a function of the cross-entropy loss value. 
+    * Main result of the analysis is the derivation of a **lower bound for the probability with which the inter-class distance is more than the intra-class distance** in this feature space, as a function of the loss value. As per intuition, the probability with which the inter-class distance is more than the intra-class distance decreases as the loss value increases, i.e. **the classes are better separated when the loss value is low**.
+    * First work of theoretical nature trying to explain the separability of classes in the feature space learned by neural networks trained with the cross-entropy loss function. Paper submitted to **NeurIPS 2019**.
+    
+ 2. **Extremal Eigenvalue Analysis of the Hessian and a Learning Rate Choice for Stochastic Gradient Descent** (Jan '19 - June '19) <br/>
+    *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
+    * Analysis of the **extremal (maximum and minimum) eigenvalues of the Hessian** matrix is of significance, especially for setting the learning rate/step-size in gradient based optimization algorithms and to gain insight about the performance of saddle point escaping algorithms. 
+    * In relation to this, presented a technique to obtain **probabilistic bounds for the extremal eigenvalues of the Hessian** at a point, as a function of the loss value at that point. The technique is based on **matrix concentration inequalities** and the computations are performed for a single hidden layer neural network with the cross-entropy loss function. In theory, the technique can be extended to more complicated architectures and loss functions, provided the Hessian obeys a certain structure. 
+    * Secondly, proposed a method to **automatically set the learning rate in mini-batch stochastic gradient descent**, a core part
+of which, also relies on matrix concentration inequalities. Two schemes have been proposed - one in which the **batch size is kept fixed** and another one in which the **batch size is increased with the number of epochs** allowing us to choose much higher learning rates than those in the first scheme, potentially leading to **faster training**.
+* Paper submitted to **SIAM Journal on Mathematics of Data Science (SIMODS)**.
+    
+3.  **Improving Optimization in Deep Learning - Master’s Thesis** (June '18 - Present) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
     * As of now, proposed a novel randomized iterative algorithm to detect whether a critical point (i.e. a point where the
     derivatives of the loss function with respect to the parameters are zero) is a local minima or a saddle point
@@ -22,14 +37,14 @@ use_math: true
     This is the **first attempt at index computation for the cross-entropy loss function**. <br/>
     * Paper submitted to **AAAI-19**. <br/>
     
-2.  **On the Existence of Sparse Bases for Deep Learning Kernels - Master’s Thesis** (Sep '18 - Present) <br/>
+4.  **On the Existence of Sparse Bases for Deep Learning Kernels - Master’s Thesis** (Sep '18 - Present) <br/>
     *Guide : Prof. Subhasis Chaudhuri, EE Department, IIT Bombay* <br/>
     * Derived a probabilistic proof to suggest the possibility of the existence of sparse basis using few training points, for the final layer of binary classification networks before sigmoid (i.e. the transformed input which is linearly separable and the kernel being the transformation function) with the cross-entropy loss. The number of training points constituting the aforementioned sparse basis is much lesser than the dimension of the transformed input (or the dimension of the co-domain of the kernel function).<br/>
     * Hypothesis corroborated by experimental results. <br/>
     * This has an **important implication** - even though a large number of examples might be required to train deep learning networks, perhaps the **learnt kernel** can **generalize well** using only a **few of the training examples**. <br/>
     * Paper submitted to **AISTATS 2019**. <br/>
     
- 3. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
+ 5. **Sparse Kernel PCA (SKPCA) for Outlier Detection** (Nov '17 - May '18) <br/>
     *Guide : Prof. Suyash Awate, CSE Department, IIT Bombay* <br/>
     * Proposed a novel SKPCA algorithm by formulating it as a constrained optimization problem with elastic
       net regularization in the kernel space, solving it using alternating minimization. Tested it on 5 real world datasets and    showed that it outperforms the recent SKPCA method proposed in "Sparse kernel principal component analysis based on elastic net regularization." by Wang et al. (2016) which uses ADMM, with lesser parameter tuning. <br/>
@@ -37,14 +52,14 @@ use_math: true
       RBF kernel, which is the **first attempt** in this direction. <br/>
     * Paper accepted for **oral presentation** in **IEEE ICMLA 2018**. <a href="https://github.com/rudrajit15/Sparse-Kernel-PCA-for-outlier-detection/tree/master/skpca_codes" style="color: #0000FF">[Code]</a><br/>
     
- 4. **Non-linear blind compressed sensing** (June '18 - Present) <br/>
+ 6. **Non-linear blind compressed sensing** (June '18 - Present) <br/>
     *Guide : Prof. Ajit Rajwade, CSE Department, IIT Bombay* <br/>
     * Working on an algorithm for non-linear blind compressed sensing (jointly estimating the sparse basis & sparse codes) which is a non-convex problem as well as its theoretical analysis which is an open problem. Currently focusing on the Anscombe transform (square root transform) for Poisson measurements. <br/>
     * Obtained a novel multiplicative update rule (like in NMF) to maintain positivity constraints of the sparse basis and
 sparse codes. 
     * Currently working on deriving an upper bound on the algorithm’s expected value of the squared norm of the error (difference between the actual and estimated signal) using a Bernoulli sensing matrix and on the rate of decrease of the objective function with the number of iterations. <br/>
       
-5. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
+7. **Multiple Instance Learning (MIL) in Breast Cancer Histology Images** (Feb '18 - Present) <br/>
     *Guide : Prof. Amit Sethi, EE Department, IIT Bombay* <br/>
     * MIL is an unsupervised learning problem where the label of the entire image (“bag”) is given and the labels
       of the patches (“instances”) in the image are to be determined from this. <br/>
@@ -53,13 +68,13 @@ sparse codes.
     * Tried Bayesian Learning for MIL using features extracted from auto-encoders and obtained results comparable to state of
       the art for the Bisque data set. However, this method did not generalize well! <a href="https://github.com/rudrajit15/MIL-for-Breast-Cancer-Histology-Images/blob/master/Report/SRE_Report.pdf" style="color: #0000FF">[Report]</a> <br/>
       
-6. **Sentence Compression Using Deep Learning** (Mar '18 - May '18) <br/>
+8. **Sentence Compression Using Deep Learning** (Mar '18 - May '18) <br/>
     *Guide :  Prof. Sunita Sarawagi, CSE Department, IIT Bombay* <br/>
     * Designed a bi-directional 3-layer LSTM model for sentence compression by modelling it as a binary classification
       problem (which words to retain/delete). Compared it with the method proposed in “Sentence
       Compression by Deletion with LSTMs” by Google NLP Research and got marginally better results. <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/tree/master/Codes" style="color: #0000FF">[Code]</a> <a href="https://github.com/rudrajit15/Sentence-Summarization-using-LSTMs/blob/master/Report/AML%20Report.pdf" style="color: #0000FF">[Report]</a><br/>
     
-7. **Speeding up Kernel PCA (KPCA)** (July '17 - Oct '17) <br/>
+9. **Speeding up Kernel PCA (KPCA)** (July '17 - Oct '17) <br/>
     *Guide : Prof. Suyash Awate, CSE Department, IIT Bombay* <br/>
     * Used the improved Nyström method to obtain a low rank approximation to the Gram matrix. Using this,
       developed a fast algorithm for eigenvector computation in KPCA, improving time complexity from $O(n^{2}p)$
