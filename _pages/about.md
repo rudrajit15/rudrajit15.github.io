@@ -16,4 +16,4 @@ My primary interests are the design of efficient (especially probabilistic) algo
 
 In general, I like solving mathematical problems based on linear algebra, probability & statistics, optimization, etc. which are ubiquitous in machine learning. You can check out my CV [here]({{ site.url }}/assets/CV_3_page.pdf).
 
-I'm moving to the University of Texas at Austin to pursue a PhD degree in Computer Science (beginning Fall 2019).
+I'm moving to the University of Texas at Austin to pursue a PhD degree in Computer Science (beginning Fall 2019). I shall be working with Prof. Inderjit Dhillon.
