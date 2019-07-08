@@ -26,5 +26,3 @@ use_math: true
 
     Finished $2^{nd}$ in the public leaderboard and $3^{rd}$ in the private leaderboard (Team name : Invincibles). <a href="https://www.kaggle.com/c/ifood2018/leaderboard" style="color: #0000FF">Leaderboard Link</a>.
     Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
-
-6. "**Some Probabilistically Provable Theoretical Aspects of Neural Networks and Algorithmic Aspects of Large-Scale Optimization**" - Bachelor's & Master's Thesis. Download <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB" style="color: #0000FF">here</a>.
