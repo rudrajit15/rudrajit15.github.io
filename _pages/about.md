@@ -14,4 +14,4 @@ I'm a final year dual degree (combined bachelor's and master's degree) student i
 
 In general, I like solving mathematical problems based on linear algebra, probability & statistics, optimization, etc. which are ubiquitous in data science. 
 
-I'm moving to the University of Texas at Austin to pursue a PhD degree in Computer Science (beginning Fall 2019). I shall be working with Prof. Inderjit Dhillon.
+I'm moving to the University of Texas at Austin to pursue a PhD degree in Computer Science (beginning Fall 2019).
