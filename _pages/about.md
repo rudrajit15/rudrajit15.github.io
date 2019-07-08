@@ -15,3 +15,5 @@ I'm a final year dual degree (combined bachelor's and master's degree) student i
 In general, I like solving mathematical problems based on linear algebra, probability & statistics, optimization, etc. which are ubiquitous in data science. 
 
 I'm moving to the University of Texas at Austin to pursue a PhD degree in Computer Science (beginning Fall 2019).
+
+Also, I'm a huge cricket lover (and a decent player too) as well as a passionate foodie!
