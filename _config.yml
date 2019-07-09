@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Rudrajit Das"
   avatar           : "github_profile2.JPG" #"github_profile.png"
-  bio              : "Cricket Lover and Passionate Foodie." #"Machine Learning Enthusiast, Cricket Lover and Passionate Foodie."
+  bio              : "Machine Learning Enthusiast, Cricket Lover and Passionate Foodie."
   location         : "Mumbai, India"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #"rudrajit-das-a6717a100"
+  linkedin         : "rudrajit-das-a6717a100"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
