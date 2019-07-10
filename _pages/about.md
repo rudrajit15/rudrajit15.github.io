@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there!
 
-I'm a final year dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay. I've worked under the guidance of Prof. Subhasis Chaudhuri on some theoretical/mathematical aspects of machine learning and deep learning for my final thesis. I'll be receiving the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
+I'm a final year dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay. I've worked under the guidance of Prof. Subhasis Chaudhuri on some theoretical/mathematical aspects of machine learning and deep learning for my final thesis. I've been awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
 
 My primary interests are the design of efficient (especially probabilistic) algorithms for machine learning problems with provable performance guarantees as well as the theoretical understanding of deep learning with respect to the learned representations, non-convex optimization, etc. Besides, I'm also interested in deep learning for computer vision, specifically unsupervised and semi-supervised methods.
 
