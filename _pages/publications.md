@@ -8,11 +8,11 @@ use_math: true
 
 1. "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    Submitted to NeurIPS 2019. Manuscript available on request.
+    Pre-print. Download paper <a href="https://arxiv.org/abs/1909.06930" style="color: #0000FF">here</a>.
     
 2. "**Extremal Eigenvalue Analysis of the Hessian and a Learning Rate Choice for Stochastic Gradient Descent**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    Submitted to SIAM Journal on Mathematics of Data Science (SIMODS). Manuscript available on request.
+    Pre-print. Manuscript available on request.
     
 3. "**Nonlinear Blind Compressed Sensing under Signal-Dependent Noise**" - **Rudrajit Das** and Ajit Rajwade.
 
