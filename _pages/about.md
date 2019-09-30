@@ -22,4 +22,4 @@ Hey there!
 
 I'm a first year PhD student in the Computer Science Department of UT Austin. I'm fortunate to be advised by Prof. Inderjit Dhillon and co-advised by Prof. Sujay Sanghavi. My main research interest is the design of efficient and provable machine learning and deep learning algorithms.
 
-Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay. At IIT Bombay, I've worked under the guidance of Prof. Subhasis Chaudhuri on some theoretical/mathematical aspects of machine learning and deep learning for my final thesis. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
+Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay. At IIT Bombay, I've worked under the guidance of Prof. Subhasis Chaudhuri on some theoretical aspects of machine learning and deep learning for my final thesis. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
