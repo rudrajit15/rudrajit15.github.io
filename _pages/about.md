@@ -63,6 +63,6 @@ You can check out my CV [here]({{ site.url }}/assets/CV_3_page.pdf).
     * Also developed an automated 2D-3D image registration framework for histology images from scratch. Devised an efficient       sampling strategy to obtain the 2D projection of the 3D image across any plane and a good cost function to deal with         the highly non-convex nature of the problem. <br/>
     
 2. **Altisource Business Solutions Private Limited, Bengaluru, India** (May '16 - July '16) <br/>
-    * Developed a notification system using Pagerduty and worked on the UI of the company’s monitoring dashboard built using       JBoss Dashbuilder. <br/>
+    * Developed a notification system using Pagerduty, a popular incident management software, and worked on the UI of the company’s monitoring dashboard built using JBoss Dashbuilder. <br/>
       
 I was also one of the very few undergraduates selected to attend the **PRAIRIE Artificial Intelligence Summer School** (<a href="https://project.inria.fr/paiss/" style="color: #0000FF">**PAISS**</a>) co-organized by Inria and NAVER LABS Europe in Grenoble, France during July 2018. Here I presented a poster (can be found <a href="https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf" style="color: #0000FF">here</a>) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
