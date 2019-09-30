@@ -54,3 +54,15 @@ You can check out my CV [here]({{ site.url }}/assets/CV_3_page.pdf).
     Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
     
 7. "**Some Probabilistically Provable Theoretical Aspects of Neural Networks and Algorithmic Aspects of Large-Scale Optimization**" - Bachelor's & Master's Thesis. Awarded the Undergraduate Research Award (URA-03) for exceptional work in thesis. Download <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB" style="color: #0000FF">here</a>.
+
+**<font size="+3">Internships</font>**
+
+1. **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
+    *Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST* <br/>
+    * Proposed a stable linear model (with closed form solution) and a fuzzy boolean network for bone re-modelling. <br/>
+    * Also developed an automated 2D-3D image registration framework for histology images from scratch. Devised an efficient       sampling strategy to obtain the 2D projection of the 3D image across any plane and a good cost function to deal with         the highly non-convex nature of the problem. <br/>
+    
+2. **Altisource Business Solutions Private Limited, Bengaluru, India** (May '16 - July '16) <br/>
+    * Developed a notification system using Pagerduty and worked on the UI of the company’s monitoring dashboard built using       JBoss Dashbuilder. <br/>
+      
+I was also one of the very few undergraduates selected to attend the **PRAIRIE Artificial Intelligence Summer School** (<a href="https://project.inria.fr/paiss/" style="color: #0000FF">**PAISS**</a>) co-organized by Inria and NAVER LABS Europe in Grenoble, France during July 2018. Here I presented a poster (can be found <a href="https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf" style="color: #0000FF">here</a>) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
