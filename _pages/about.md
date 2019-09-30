@@ -26,6 +26,8 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_3_page.pdf).
 
+<font size="+4">**Publications & Competitions**</font>
+
 1. "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
     Pre-print. Download paper <a href="https://arxiv.org/abs/1909.06930" style="color: #0000FF">here</a>.
