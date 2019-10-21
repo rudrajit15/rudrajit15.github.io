@@ -24,7 +24,7 @@ I'm a first year PhD student in the Computer Science Department of **UT Austin**
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, Indian Institute of Technology (**IIT**) **Bombay**. At IIT Bombay, I've worked under the guidance of Prof. **Subhasis Chaudhuri** on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis. I was awarded the **Undergraduate Research Award** (URA-03) for exceptional work in my final thesis.
 
-<!-- You can check out my CV [here]({{ site.url }}/assets/CV_3_page.pdf).-->
+You can check out my CV [here]({{ site.url }}/assets/CV_Rudra.pdf)
 
 **<font size="+3">Publications & Competitions</font>**
 
