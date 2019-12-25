@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there!
+Howdy!
 
 <!-- I'm a final year dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay. I've worked under the guidance of Prof. Subhasis Chaudhuri on some theoretical/mathematical aspects of machine learning and deep learning for my final thesis. I've been awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.-->
 
