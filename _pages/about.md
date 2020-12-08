@@ -51,8 +51,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_Rudra.pdf).
 
 * **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
     *Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST* <br/>
-    * Proposed a stable linear model (with closed form solution) and a fuzzy boolean network for bone re-modelling. <br/>
-    * Also developed an automated 2D-3D image registration framework for histology images from scratch. Devised an efficient       sampling strategy to obtain the 2D projection of the 3D image across any plane and a good cost function to deal with         the highly non-convex nature of the problem. <br/>
+    * Proposed a stable linear model (with closed form solution) and a fuzzy boolean network for bone re-modeling. Also developed an automated 2D-3D image registration framework for histology images from scratch. <br/>
     
 * **Altisource Business Solutions Private Limited, Bengaluru, India** (May '16 - July '16) <br/>
     * Developed a notification system using Pagerduty, a popular incident management software, and worked on the UI of the company’s monitoring dashboard built using JBoss Dashbuilder. <br/>
