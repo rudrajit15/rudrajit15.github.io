@@ -18,13 +18,17 @@ You can check out my CV [here]({{ site.url }}/assets/CV_Rudra.pdf).
 
 **<font size="+3">Publications & Competitions</font>**
 
-* "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
+* "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi, Inderjit Dhillon (^ denotes equal contribution).
 
-    Pre-print. Download paper <a href="https://arxiv.org/abs/1909.06930" style="color: #0000FF">here</a>.
+    Pre-print. Download paper <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
     
 * "**On the Convergence of a Biased Version of Stochastic Gradient Descent**" - **Rudrajit Das**, Jiong Zhang and Inderjit Dhillon.
 
     Accepted for poster presentation in "Beyond First Order Methods in ML" workshop in NeurIPS 2019.
+
+* "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
+
+    Pre-print. Download paper <a href="https://arxiv.org/abs/1909.06930" style="color: #0000FF">here</a>.
     
 * "**Nonlinear Blind Compressed Sensing under Signal-Dependent Noise**" - **Rudrajit Das** and Ajit Rajwade.
 
