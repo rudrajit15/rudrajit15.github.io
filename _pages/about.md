@@ -45,12 +45,16 @@ You can check out my CV [here]({{ site.url }}/assets/CV_Rudra.pdf).
 
 **<font size="+3">Internships</font>**
 
-1. **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
+* **Applied Scientist Intern at Amazon Search (Virtual), Berkeley, USA** (May '20 - Aug '20) <br/>
+    *Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST* <br/>
+    * Worked on customer-specific query correction by leveraging the \enquote{session data} (or previous searches of the customer) using SOTA Transformer models. Our model generated better candidates than the production system. <br/>
+
+* **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
     *Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST* <br/>
     * Proposed a stable linear model (with closed form solution) and a fuzzy boolean network for bone re-modelling. <br/>
     * Also developed an automated 2D-3D image registration framework for histology images from scratch. Devised an efficient       sampling strategy to obtain the 2D projection of the 3D image across any plane and a good cost function to deal with         the highly non-convex nature of the problem. <br/>
     
-2. **Altisource Business Solutions Private Limited, Bengaluru, India** (May '16 - July '16) <br/>
+* **Altisource Business Solutions Private Limited, Bengaluru, India** (May '16 - July '16) <br/>
     * Developed a notification system using Pagerduty, a popular incident management software, and worked on the UI of the company’s monitoring dashboard built using JBoss Dashbuilder. <br/>
       
 I was also one of the very few undergraduates selected to attend the **PRAIRIE Artificial Intelligence Summer School** (<a href="https://project.inria.fr/paiss/" style="color: #0000FF">**PAISS**</a>) co-organized by Inria and NAVER LABS Europe in Grenoble, France during July 2018. Here I presented a poster (can be found <a href="https://github.com/rudrajit15/Existence-of-sparse-basis-for-deep-learning-kernels/blob/master/Inria_poster.pdf" style="color: #0000FF">here</a>) titled “**Existence of Sparse Basis for Deep Learning Kernels?**”.
