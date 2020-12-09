@@ -51,7 +51,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_Rudra.pdf).
 
 * **Applied Scientist Intern at Amazon Search (Virtual), Berkeley, USA** (May '20 - Aug '20) <br/>
     *Mentor: Dan Hill, Manager: Sujay Sanghavi* <br/>
-    * Worked on customer-specific query correction by leveraging the "session data" (or previous searches of the customer) using SOTA Transformer models. Our model generated better candidates than the production system. <br/>
+    * Worked on customer-specific query correction by leveraging the "session data" (i.e. previous searches of the customer) using SOTA Transformer models. Our model generated better candidates than the production system. <br/>
 
 * **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
     *Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST* <br/>
