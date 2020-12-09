@@ -85,7 +85,7 @@ author:
   location         : "Austin, TX"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "rdas@utexas.edu"
+  email            : #"rdas@utexas.edu"
   uri              :
   bitbucket        :
   codepen          :
