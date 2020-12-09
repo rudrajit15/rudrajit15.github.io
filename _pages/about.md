@@ -18,7 +18,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
 **<font size="+3">Publications & Competitions</font>**
 
-* "**Improved Convergence Rates for Non-Convex Federated Learning with Compression**" - Rudrajit Das, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
+* "**Improved Convergence Rates for Non-Convex Federated Learning with Compression**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
 
     Pre-print. Download paper <a href="https://arxiv.org/abs/2012.04061" style="color: #0000FF">here</a>.
 
