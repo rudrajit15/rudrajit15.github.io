@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Rudrajit Das"
-  avatar           : "crop2.JPG" #"github_profile2.JPG" #"github_profile.png"
+  avatar           : "crop1.JPG" #"github_profile2.JPG" #"github_profile.png"
   bio              : "Doing Machine Learning Theory and Optimization at UT Austin"
   location         : "Austin, TX"
   employer         :
