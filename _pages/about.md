@@ -18,9 +18,9 @@ You can check out my CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
 **<font size="+3">Publications & Competitions</font>**
 
-* "**Improved Convergence Rates for Non-Convex Federated Learning with Compression**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
+* "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon, Ufuk Topcu.
 
-    Pre-print. Download paper <a href="https://arxiv.org/abs/2012.04061" style="color: #0000FF">here</a>.
+    Pre-print. Download paper <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
 
 * "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi, Inderjit Dhillon (^ denotes equal contribution).
 
