@@ -16,6 +16,8 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
+**Update**: During the summer, I'll be interning at Google Research working on Federated Learning with Zheng Xu!
+
 **<font size="+3">Publications & Competitions</font>**
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon, Ufuk Topcu.
