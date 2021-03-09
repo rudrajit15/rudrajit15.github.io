@@ -16,7 +16,7 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
-**Update**: During the summer, I'll be interning at Google Research working on Federated Learning!
+**Update**: I'll be interning at Google Research this summer, working on federated learning!
 
 **<font size="+3">Publications & Competitions</font>**
 
