@@ -16,9 +16,13 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
-**Update**: I'll be interning at **Google Research** this summer, working on federated learning with Zheng Xu, Satyen Kale and Tong Zhang.
+**Update**: I'm interning at **Google Research** this summer, working on federated learning with Zheng Xu, Satyen Kale and Tong Zhang.
 
 **<font size="+3">Publications & Competitions</font>**
+
+* "**DP-NormFedAvg: Normalizing Client Updates for Privacy-Preserving Federated Learning**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
+
+    Pre-print. Download paper <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon, Ufuk Topcu.
 
