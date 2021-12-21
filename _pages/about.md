@@ -55,7 +55,7 @@ You can check out my old CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
 * **Research Intern at Google (Virtual)** (June '21 - Aug '21) <br/>
     *Mentors: Zheng Xu, Satyen Kale and Tong Zhang* <br/>
-    * Clipped gradient methods are commonly used in practice for improving convergence as well as for differentially private training. However, a sound theoretical understanding of these methods has been elusive. We are working on deriving better theory for (DP)-SGD with clipping via the lens of bias-variance tradeoff of a gradient estimator. <br/>
+    * Clipped gradient methods are commonly used in practice for improving convergence as well as for differentially private (DP) training. However, a sound theoretical understanding of these methods has been elusive. We are working on deriving better theory for (DP)-SGD with clipping via the lens of bias-variance tradeoff of a gradient estimator. <br/>
 
 * **Applied Scientist Intern at Amazon Search (Virtual), Berkeley, USA** (May '20 - Aug '20) <br/>
     *Mentor: Dan Hill, Manager: Sujay Sanghavi* <br/>
