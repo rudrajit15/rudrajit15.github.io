@@ -10,13 +10,11 @@ redirect_from:
 
 Howdy!
 
-I'm a second year PhD student in the Computer Science Department of **UT Austin**. I'm fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly, I'm interested in the design of efficient and provable machine learning and deep learning algorithms. Specifically, my current research interests include large-scale optimization, federated learning, and machine learning theory.
+I'm a third year PhD student in the Computer Science Department of **UT Austin**. I'm fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly, I'm interested in the design of efficient and provable machine learning and deep learning algorithms. Specifically, my current research interests include large-scale optimization, federated learning, and machine learning theory.
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I've worked under the guidance of Prof. **Subhasis Chaudhuri** on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB">[link]</a>. I was awarded the **Undergraduate Research Award** (URA-03) for exceptional work in my final thesis.
 
-You can check out my CV [here]({{ site.url }}/assets/CV_2020.pdf).
-
-I'm interning at **Google Research** this summer, working on federated learning with Zheng Xu, Satyen Kale and Tong Zhang.
+You can check out my old CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
 **<font size="+3">Publications & Competitions</font>**
 
@@ -54,6 +52,10 @@ I'm interning at **Google Research** this summer, working on federated learning 
     Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
 
 **<font size="+3">Internships</font>**
+
+* **Research Intern at Google (Virtual)** (June '21 - Aug '21) <br/>
+    *Mentors: Zheng Xu, Satyen Kale and Tong Zhang* <br/>
+    * Working on theory for clipped (DP-)SGD. <br/>
 
 * **Applied Scientist Intern at Amazon Search (Virtual), Berkeley, USA** (May '20 - Aug '20) <br/>
     *Mentor: Dan Hill, Manager: Sujay Sanghavi* <br/>
