@@ -28,7 +28,7 @@ You can check out my old CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
 * "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi, Inderjit Dhillon (^ denotes equal contribution).
 
-    Pre-print. Download paper <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
+    Accepted in IEEE Transactions on Parallel and Distributed Systems. Download pre-print <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
     
 * "**On the Convergence of a Biased Version of Stochastic Gradient Descent**" - **Rudrajit Das**, Jiong Zhang and Inderjit Dhillon.
 
