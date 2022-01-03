@@ -14,7 +14,7 @@ I'm a third year PhD student in the Computer Science Department of **UT Austin**
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I've worked under the guidance of Prof. **Subhasis Chaudhuri** on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB">[link]</a>. I was awarded the **Undergraduate Research Award** (URA-03) for exceptional work in my final thesis.
 
-You can check out my old CV [here]({{ site.url }}/assets/CV_2020.pdf).
+You can check out my CV [here]({{ site.url }}/assets/CV_web.pdf).
 
 **<font size="+3">Publications & Competitions</font>**
 
@@ -28,7 +28,7 @@ You can check out my old CV [here]({{ site.url }}/assets/CV_2020.pdf).
 
 * "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi, Inderjit Dhillon (^ denotes equal contribution).
 
-    Accepted in IEEE Transactions on Parallel and Distributed Systems. Download pre-print <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
+    Accepted in IEEE Transactions on Parallel and Distributed Systems. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/9664349" style="color: #0000FF">here</a> and pre-print <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
     
 * "**On the Convergence of a Biased Version of Stochastic Gradient Descent**" - **Rudrajit Das**, Jiong Zhang and Inderjit Dhillon.
 
