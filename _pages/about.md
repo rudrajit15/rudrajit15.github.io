@@ -18,7 +18,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_web.pdf).
 
 **<font size="+3">Publications & Competitions</font>**
 
-* "**DP-NormFedAvg: Normalizing Client Updates for Privacy-Preserving Federated Learning**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
+* "**On the Convergence of Differentially Private Federated Learning on Non-Lipschitz Objectives, and with Normalized Client Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
 
     Pre-print. Download paper <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
 
