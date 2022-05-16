@@ -24,7 +24,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_web.pdf).
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon, Ufuk Topcu.
 
-    Accepted in The Conference on Uncertainty in Artificial Intelligence (UAI) 2022. Download pre-print <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
+    Accepted for poster presentation in The Conference on Uncertainty in Artificial Intelligence (UAI) 2022. Download pre-print <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
 
 * "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi, Inderjit Dhillon (^ denotes equal contribution).
 
