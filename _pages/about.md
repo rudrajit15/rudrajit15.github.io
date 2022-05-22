@@ -16,11 +16,11 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_web.pdf).
 
-**<font size="+3">Publications & Pre-Prints</font>**
+**<font size="+3">Publications & Preprints</font>**
 
 * "**On the Convergence of Differentially Private Federated Learning on Non-Lipschitz Objectives, and with Normalized Client Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
 
-    Pre-print. Download paper <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
+    Preprint. Download paper <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon, Ufuk Topcu.
 
@@ -36,7 +36,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_web.pdf).
 
 * "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
-    Pre-print. Download paper <a href="https://arxiv.org/abs/1909.06930" style="color: #0000FF">here</a>.
+    Preprint. Download paper <a href="https://arxiv.org/abs/1909.06930" style="color: #0000FF">here</a>.
     
 * "**Nonlinear Blind Compressed Sensing under Signal-Dependent Noise**" - **Rudrajit Das** and Ajit Rajwade.
 
