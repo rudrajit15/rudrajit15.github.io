@@ -16,7 +16,7 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_web.pdf).
 
-**<font size="+3">Publications & Competitions</font>**
+**<font size="+3">Publications & Pre-Prints</font>**
 
 * "**On the Convergence of Differentially Private Federated Learning on Non-Lipschitz Objectives, and with Normalized Client Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
 
