@@ -22,7 +22,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_may.pdf).
 
     Submitted (Under Review).
 
-* "**On the Convergence of Differentially Private Federated Learning on Non-Lipschitz Objectives, and with Normalized Client Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
+* "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
 
     Preprint (Under Review). Download <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
 
