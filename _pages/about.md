@@ -18,9 +18,13 @@ You can check out my CV [here]({{ site.url }}/assets/CV_web.pdf).
 
 **<font size="+3">Publications and Preprints</font>**
 
+* "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang, Sujay Sanghavi.
+
+    Submitted (Under Review).
+
 * "**On the Convergence of Differentially Private Federated Learning on Non-Lipschitz Objectives, and with Normalized Client Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
 
-    Preprint. Download <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
+    Preprint (Under Review). Download <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon, Ufuk Topcu.
 
