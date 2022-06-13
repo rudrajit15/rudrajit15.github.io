@@ -10,13 +10,17 @@ redirect_from:
 
 Howdy!
 
-I'm a third year PhD student in the Computer Science Department of **UT Austin**. I'm fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly, I'm interested in the design of efficient and provable machine learning and deep learning algorithms. Specifically, my current research interests include large-scale optimization, federated learning, and machine learning theory.
+I'm a third year PhD student in the Computer Science Department of **UT Austin**. I'm fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly, I'm interested in the design of efficient and provable optimization algorithms for machine learning. Specifically, my current research interests include large-scale stochastic optimization, federated learning, differentially private optimization and robust optimization. I was a research intern at Google in 2021 and applied scient intern at Amazon in 2020.
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I've worked under the guidance of Prof. **Subhasis Chaudhuri** on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB">[link]</a>. I was awarded the **Undergraduate Research Award** (URA-03) for exceptional work in my final thesis.
 
 You can check out my CV [here]({{ site.url }}/assets/CV_may.pdf).
 
 **<font size="+3">Publications and Preprints</font>**
+
+* "**On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data**" - Jianyu Wang, **Rudrajit Das**, Gauri Joshi, Satyen Kale, Zheng Xu, Tong Zhang.
+
+    Preprint (Under Review). Download <a href="https://arxiv.org/abs/2206.04723" style="color: #0000FF">here</a>.
 
 * "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang, Sujay Sanghavi.
 
