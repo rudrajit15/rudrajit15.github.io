@@ -14,7 +14,7 @@ I'm a third year PhD student in the Computer Science Department of **UT Austin**
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I've worked under the guidance of Prof. **Subhasis Chaudhuri** on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB">[link]</a>. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
 
-You can check out my CV [here]({{ site.url }}/assets/CV_Rudrajit_Das.pdf).
+You can check out my CV [here]({{ site.url }}/assets/CV_Rudrajit.pdf).
 
 **<font size="+3">Publications and Preprints</font>**
 
@@ -24,7 +24,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_Rudrajit_Das.pdf).
 
 * "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang, Sujay Sanghavi.
 
-    Submitted (Under Review).
+    Preprint (Under Review). Download <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>.
 
 * "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
 
