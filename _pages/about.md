@@ -32,7 +32,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi and Inderjit S. Dhillon.
 
-    Preprint. Download <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>. Short version accepted for poster presentation in OPT2022 workshop of NeurIPS 2022. Download <a href="https://openreview.net/pdf?id=0FllaTqjor7" style="color: #0000FF">here</a>.
+    Download preprint <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>. Short version accepted for poster presentation in OPT2022 workshop of NeurIPS 2022. Download <a href="https://openreview.net/pdf?id=0FllaTqjor7" style="color: #0000FF">here</a>.
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon and Ufuk Topcu.
 
