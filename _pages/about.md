@@ -16,7 +16,7 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_Rudrajit.pdf).
 
-**<font size="+3">Publications and Preprints</font>**
+**<font size="+3">Papers</font>**
 
 * "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
 
