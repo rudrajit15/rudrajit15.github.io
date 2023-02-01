@@ -10,7 +10,7 @@ redirect_from:
 
 Howdy!
 
-I'm a third year PhD student in the Computer Science Department of **UT Austin**. I'm fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly, I'm interested in the design of efficient and provable optimization algorithms for machine learning. Specifically, my current research interests include large-scale stochastic optimization, federated learning, differentially private optimization and robust optimization. I was a research intern at Google in 2021 and an applied scientist intern at Amazon in 2020.
+I'm a fourth year PhD student in the Computer Science Department of **UT Austin**. I'm fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly, I'm interested in the design of efficient and provable algorithms for machine learning. Specifically, my current research interests include large-scale and robust optimization, federated learning and differentially private optimization. I was a research intern at Google in 2021 and an applied scientist intern at Amazon in 2020.
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I've worked under the guidance of Prof. **Subhasis Chaudhuri** on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB">[link]</a>. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
 
@@ -18,23 +18,27 @@ You can check out my CV [here]({{ site.url }}/assets/CV_Rudrajit.pdf).
 
 **<font size="+3">Publications and Preprints</font>**
 
-* "**On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data**" - Jianyu Wang, **Rudrajit Das**, Gauri Joshi, Satyen Kale, Zheng Xu, Tong Zhang.
+* "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
 
-    Preprint (Under Review). Download <a href="https://arxiv.org/abs/2206.04723" style="color: #0000FF">here</a>.
+    Preprint. Download <a href="https://arxiv.org/abs/2301.13304" style="color: #0000FF">here</a>.
 
-* "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang, Sujay Sanghavi.
+* "**On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data**" - Jianyu Wang, **Rudrajit Das**, Gauri Joshi, Satyen Kale, Zheng Xu and Tong Zhang.
 
-    Preprint (Under Review). Download <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>.
+    Preprint. Download <a href="https://arxiv.org/abs/2206.04723" style="color: #0000FF">here</a>.
 
-* "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon.
+* "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang and Sujay Sanghavi.
 
-    Preprint (Under Review). Download <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>.
+    Preprint. Download <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>.
 
-* "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon, Ufuk Topcu.
+* "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi and Inderjit S. Dhillon.
+
+    Preprint. Download <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>. Short version accepted for poster presentation in OPT2022 workshop of NeurIPS 2022. Download <a href="https://openreview.net/pdf?id=0FllaTqjor7" style="color: #0000FF">here</a>.
+
+* "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon and Ufuk Topcu.
 
     Accepted for poster presentation in The Conference on Uncertainty in Artificial Intelligence (UAI) 2022. Download paper <a href="https://openreview.net/forum?id=SSlLRUIs9e9&referrer=%5Bthe%20profile%20of%20Rudrajit%20Das%5D(%2Fprofile%3Fid%3D~Rudrajit_Das1)" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
 
-* "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi, Inderjit Dhillon (^ denotes equal contribution).
+* "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi and Inderjit Dhillon (^ denotes equal contribution).
 
     Accepted in IEEE Transactions on Parallel and Distributed Systems. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/9664349" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
     
@@ -54,7 +58,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_Rudrajit.pdf).
 
     Accepted for oral presentation in IEEE International Conference on Machine Learning and Applications (ICMLA) 2018. Download paper <a href="https://arxiv.org/abs/1809.02497" style="color: #0000FF">here</a>.
 
-* **iFood Challenge, FGVC Workshop, CVPR 2018** - Parth Kothari^, Arka Sadhu^, Aditya Golatkar^, **Rudrajit Das**^ (^ denotes equal contribution).
+* **iFood Challenge, FGVC Workshop, CVPR 2018** - Parth Kothari^, Arka Sadhu^, Aditya Golatkar^ and **Rudrajit Das**^ (^ denotes equal contribution).
 
     Finished $2^{nd}$ in the public leaderboard and $3^{rd}$ in the private leaderboard (Team name : Invincibles). <a href="https://www.kaggle.com/c/ifood2018/leaderboard" style="color: #0000FF">Leaderboard Link</a>.
     Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
