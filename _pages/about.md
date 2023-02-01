@@ -52,7 +52,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
     
 * "**Nonlinear Blind Compressed Sensing under Signal-Dependent Noise**" - **Rudrajit Das** and Ajit Rajwade.
 
-    Accepted for presentation in IEEE International Conference on Image Processing (ICIP) 2019. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/8803173" style="color: #0000FF">here</a>.
+    Accepted for poster presentation in IEEE International Conference on Image Processing (ICIP) 2019. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/8803173" style="color: #0000FF">here</a>.
 
 * "**Sparse Kernel PCA for Outlier Detection**" - **Rudrajit Das**, Aditya Golatkar and Suyash Awate.
 
