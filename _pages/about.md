@@ -20,7 +20,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
 
-    Accepted for poster presentation in The International Conference on Machine Learning (ICML) 2023. Download preprint <a href="https://arxiv.org/abs/2301.13304" style="color: #0000FF">here</a>.
+    Accepted for poster presentation in ICML 2023. Download preprint <a href="https://arxiv.org/abs/2301.13304" style="color: #0000FF">here</a>.
 
 * "**On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data**" - Jianyu Wang, **Rudrajit Das**, Gauri Joshi, Satyen Kale, Zheng Xu and Tong Zhang.
 
@@ -28,7 +28,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang and Sujay Sanghavi.
 
-    Accepted for poster presentation in The International Conference on Machine Learning (ICML) 2023. Download old preprint <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>. New version coming soon!
+    Accepted for poster presentation in ICML 2023. Download old preprint <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>. New version coming soon!
 
 * "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi and Inderjit S. Dhillon.
 
@@ -36,7 +36,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon and Ufuk Topcu.
 
-    Accepted for poster presentation in The Conference on Uncertainty in Artificial Intelligence (UAI) 2022. Download paper <a href="https://openreview.net/forum?id=SSlLRUIs9e9&referrer=%5Bthe%20profile%20of%20Rudrajit%20Das%5D(%2Fprofile%3Fid%3D~Rudrajit_Das1)" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
+    Accepted for poster presentation in UAI 2022. Download paper <a href="https://openreview.net/forum?id=SSlLRUIs9e9&referrer=%5Bthe%20profile%20of%20Rudrajit%20Das%5D(%2Fprofile%3Fid%3D~Rudrajit_Das1)" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
 
 * "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi and Inderjit Dhillon (^ denotes equal contribution).
 
