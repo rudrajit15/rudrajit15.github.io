@@ -44,7 +44,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
     
 * "**On the Convergence of a Biased Version of Stochastic Gradient Descent**" - **Rudrajit Das**, Jiong Zhang and Inderjit Dhillon.
 
-    "Beyond First Order Methods in ML" workshop in NeurIPS 2019. Download paper <a href="https://drive.google.com/file/d/1fn1iO_CXWJzgVqiY3p84NfCf__i6hKCW/view" style="color: #0000FF">here</a>.
+    Beyond First Order Methods in ML workshop in NeurIPS 2019. Download paper <a href="https://drive.google.com/file/d/1fn1iO_CXWJzgVqiY3p84NfCf__i6hKCW/view" style="color: #0000FF">here</a>.
 
 * "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
