@@ -19,8 +19,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 **<font size="+3">Papers</font>**
 
 * "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
-
-    Accepted for poster presentation in ICML 2023. Download preprint <a href="https://arxiv.org/abs/2301.13304" style="color: #0000FF">here</a>.
+   ICML 2023. Download preprint <a href="https://arxiv.org/abs/2301.13304" style="color: #0000FF">here</a>.
 
 * "**On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data**" - Jianyu Wang, **Rudrajit Das**, Gauri Joshi, Satyen Kale, Zheng Xu and Tong Zhang.
 
