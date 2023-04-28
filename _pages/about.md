@@ -28,23 +28,23 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang and Sujay Sanghavi.
 
-    Accepted for poster presentation in ICML 2023. Download old preprint <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>. New version coming soon.
+    ICML 2023. Download old preprint <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>. New version coming soon.
 
 * "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi and Inderjit S. Dhillon.
 
-    Download preprint <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>. Short version accepted for poster presentation in OPT2022 workshop of NeurIPS 2022. Download <a href="https://openreview.net/pdf?id=0FllaTqjor7" style="color: #0000FF">here</a>.
+    Download preprint <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>. Short version presented in OPT2022 workshop of NeurIPS 2022; download <a href="https://openreview.net/pdf?id=0FllaTqjor7" style="color: #0000FF">here</a>.
 
 * "**Faster Non-Convex Federated Learning via Global and Local Momentum**" - **Rudrajit Das**, Anish Acharya, Abolfazl Hashemi, Sujay Sanghavi, Inderjit S. Dhillon and Ufuk Topcu.
 
-    Accepted for poster presentation in UAI 2022. Download paper <a href="https://openreview.net/forum?id=SSlLRUIs9e9&referrer=%5Bthe%20profile%20of%20Rudrajit%20Das%5D(%2Fprofile%3Fid%3D~Rudrajit_Das1)" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
+    UAI 2022. Download paper <a href="https://openreview.net/forum?id=SSlLRUIs9e9&referrer=%5Bthe%20profile%20of%20Rudrajit%20Das%5D(%2Fprofile%3Fid%3D~Rudrajit_Das1)" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
 
 * "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi and Inderjit Dhillon (^ denotes equal contribution).
 
-    Accepted in IEEE Transactions on Parallel and Distributed Systems. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/9664349" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
+    IEEE Transactions on Parallel and Distributed Systems. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/9664349" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
     
 * "**On the Convergence of a Biased Version of Stochastic Gradient Descent**" - **Rudrajit Das**, Jiong Zhang and Inderjit Dhillon.
 
-    Accepted for poster presentation in "Beyond First Order Methods in ML" workshop in NeurIPS 2019. Download paper <a href="https://drive.google.com/file/d/1fn1iO_CXWJzgVqiY3p84NfCf__i6hKCW/view" style="color: #0000FF">here</a>.
+    "Beyond First Order Methods in ML" workshop in NeurIPS 2019. Download paper <a href="https://drive.google.com/file/d/1fn1iO_CXWJzgVqiY3p84NfCf__i6hKCW/view" style="color: #0000FF">here</a>.
 
 * "**On the Separability of Classes with the Cross-Entropy Loss Function**" - **Rudrajit Das** and Subhasis Chaudhuri.
 
@@ -52,11 +52,11 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
     
 * "**Nonlinear Blind Compressed Sensing under Signal-Dependent Noise**" - **Rudrajit Das** and Ajit Rajwade.
 
-    Accepted for poster presentation in IEEE International Conference on Image Processing (ICIP) 2019. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/8803173" style="color: #0000FF">here</a>.
+    IEEE International Conference on Image Processing (ICIP) 2019. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/8803173" style="color: #0000FF">here</a>.
 
 * "**Sparse Kernel PCA for Outlier Detection**" - **Rudrajit Das**, Aditya Golatkar and Suyash Awate.
 
-    Accepted for oral presentation in IEEE International Conference on Machine Learning and Applications (ICMLA) 2018. Download paper <a href="https://arxiv.org/abs/1809.02497" style="color: #0000FF">here</a>.
+    IEEE International Conference on Machine Learning and Applications (ICMLA) 2018 Oral. Download paper <a href="https://arxiv.org/abs/1809.02497" style="color: #0000FF">here</a>.
 
 * **iFood Challenge, FGVC Workshop, CVPR 2018** - Parth Kothari^, Arka Sadhu^, Aditya Golatkar^ and **Rudrajit Das**^ (^ denotes equal contribution).
 
