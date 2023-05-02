@@ -10,7 +10,7 @@ redirect_from:
 
 Howdy!
 
-I'm a fourth year PhD student in the Computer Science Department of **UT Austin**. I'm fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly, I'm interested in the design of efficient and provable algorithms for machine learning. Specifically, my current research interests include large-scale & robust optimization, federated learning and differentially private optimization. I was a research intern at Google in 2021 and an applied scientist intern at Amazon in 2020.
+I am a fourth year PhD student in the Computer Science Department of **UT Austin**. I am fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans federated learning, differentially private training and knowledge distillation. I will be a student researcher at **Google AI Princeton** this summer, working with Naman Agarwal. I was a research intern at **Google** in 2021 and an applied scientist intern at **Amazon** in 2020.
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I worked under the guidance of Prof. **Subhasis Chaudhuri** on some probabilistically provable theoretical aspects of neural networks and algorithmic aspects of large-scale optimization for my final thesis <a href="https://drive.google.com/open?id=1gOwSCWhbJLVFN2K178Ujve-WxFv_VDdB">[link]</a>. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
 
