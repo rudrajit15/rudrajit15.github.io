@@ -28,8 +28,8 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang and Sujay Sanghavi.
 
-    ICML 2023. Download old preprint <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>. New version coming soon.
-
+    ICML 2023. Download preprint <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>. 
+    
 * "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi and Inderjit S. Dhillon.
 
     Download preprint <a href="https://arxiv.org/pdf/2106.07094.pdf" style="color: #0000FF">here</a>. Short version presented in OPT2022 workshop of NeurIPS 2022; download <a href="https://openreview.net/pdf?id=0FllaTqjor7" style="color: #0000FF">here</a>.
