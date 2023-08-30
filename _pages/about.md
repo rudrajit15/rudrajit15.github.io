@@ -20,7 +20,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
    
-   ICML 2023. Download preprint <a href="https://arxiv.org/abs/2301.13304" style="color: #0000FF">here</a>.
+   ICML 2023. Download paper <a href="https://proceedings.mlr.press/v202/das23d/das23d.pdf" style="color: #0000FF">here</a>.
 
 * "**On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data**" - Jianyu Wang, **Rudrajit Das**, Gauri Joshi, Satyen Kale, Zheng Xu and Tong Zhang.
 
@@ -28,7 +28,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV.pdf).
 
 * "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang and Sujay Sanghavi.
 
-    ICML 2023. Download preprint <a href="https://arxiv.org/abs/2206.10713" style="color: #0000FF">here</a>. 
+    ICML 2023. Download paper <a href="https://proceedings.mlr.press/v202/das23c/das23c.pdf" style="color: #0000FF">here</a>. 
     
 * "**Differentially Private Federated Learning with Normalized Updates**" - **Rudrajit Das**, Abolfazl Hashemi, Sujay Sanghavi and Inderjit S. Dhillon.
 
