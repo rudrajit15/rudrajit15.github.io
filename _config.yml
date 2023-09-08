@@ -84,8 +84,8 @@ author:
   bio              : "Just another guy working towards a PhD in Machine Learning"
   location         : "Austin, TX"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #"rdas@utexas.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=L5K4mJMAAAAJ&hl=en"
+  email            : "rdas<at>utexas<dot>edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         : "rudrajit.das.56"
   foursquare       :
-  github           : "rudrajit15"
+  github           : #"rudrajit15"
   google_plus      :
   keybase          :
   instagram        :
