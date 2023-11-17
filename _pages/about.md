@@ -10,7 +10,7 @@ redirect_from:
 
 Howdy!
 
-I am a fifth year PhD student in the Computer Science Department of **UT Austin**. I am fortunate to be advised by Prof. **Inderjit Dhillon** and Prof. **Sujay Sanghavi**. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans federated learning, differentially private training and knowledge distillation. I am a student researcher at **Google DeepMind** this summer. I was a research intern at **Google Research** in 2021 and an applied scientist intern at **Amazon** in 2020.
+I am a fifth-year PhD candidate in the Computer Science Department of **UT Austin**. I am fortunate to be advised by Prof. **Inderjit S. Dhillon** and Prof. **Sujay Sanghavi**. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans federated learning, differentially private training, and knowledge distillation. I am a student researcher at **Google Research** in the **Algorithms and Optimization** team. Before this, I was a student researcher at **Google DeepMind** in 2023, a research intern at **Google Research** in 2021, and an applied scientist intern at **Amazon** in 2020.
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I worked under the guidance of Prof. **Subhasis Chaudhuri**. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
 
@@ -65,14 +65,18 @@ You can check out my old CV [here]({{ site.url }}/assets/CV.pdf). My email is rd
 
 **<font size="+3">Internships</font>**
 
+* **Student Researcher at Google DeepMind, Princeton, NJ, USA** (June '21 - Aug '21) <br/>
+    *Host: Naman Agarwal* <br/>
+    * Empirically benchmarked several optimization algorithms based on the Adam optimizer. We are working on some new theoretical results to quantify Adam's preconditioning effect. <br/>
+    
 * **Research Intern at Google (Virtual)** (June '21 - Aug '21) <br/>
-    *Mentors: Zheng Xu, Satyen Kale and Tong Zhang* <br/>
-    * Clipped gradient methods are commonly used in practice for improving convergence as well as for differentially private (DP) training. However, a sound theoretical understanding of these methods has been elusive. We are working on deriving better theory for (DP-)SGD with clipping via the lens of bias-variance tradeoff of a gradient estimator. <br/>
+    *Hosts: Zheng Xu, Satyen Kale, and Tong Zhang* <br/>
+    * Clipped gradient methods are commonly used in practice for differentially private (DP) training, e.g., DP-SGD. However, a sound theoretical understanding of these methods has been elusive. We provide principled guidance on choosing the clipping threshold in DP-SGD and also derive novel convergence results for DP-SGD in heavy-tailed settings. <br/>
 
-* **Applied Scientist Intern at Amazon Search (Virtual), Berkeley, USA** (May '20 - Aug '20) <br/>
+* **Applied Scientist Intern at Amazon Search (Virtual), Berkeley, CA, USA** (May '20 - Aug '20) <br/>
     *Mentor: Dan Hill, Manager: Sujay Sanghavi* <br/>
     * Worked on customer-specific query correction by leveraging the "session data" (i.e. previous searches of the customer) using SOTA Transformer models. Our model generated better candidates than the production system. <br/>
 
-* **Institute for Biomechanics, ETH Zürich, Switzerland** (May '17 - July '17) <br/>
+* **Institute for Biomechanics, ETH Zürich, Zürich, Switzerland** (May '17 - July '17) <br/>
     *Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST* <br/>
     * Proposed a stable linear model (with closed form solution) and a fuzzy boolean network for bone re-modeling. Also developed an automated 2D-3D image registration framework for histology images from scratch. <br/>
