@@ -65,7 +65,7 @@ You can check out my old CV [here]({{ site.url }}/assets/CV.pdf). My email is rd
 
 **<font size="+3">Internships</font>**
 
-* **Student Researcher at Google DeepMind, Princeton, NJ, USA** (June '21 - Aug '21) <br/>
+* **Student Researcher at Google DeepMind, Princeton, NJ, USA** (June '23 - Oct '23) <br/>
     *Host: Naman Agarwal* <br/>
     * Empirically benchmarked several optimization algorithms based on the Adam optimizer. We are working on some new theoretical results to quantify Adam's preconditioning effect. <br/>
     
