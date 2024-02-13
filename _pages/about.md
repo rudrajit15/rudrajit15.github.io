@@ -10,13 +10,21 @@ redirect_from:
 
 Howdy!
 
-I am a fifth-year PhD candidate in the Computer Science Department of **UT Austin**. I am fortunate to be advised by Prof. **Inderjit S. Dhillon** and Prof. **Sujay Sanghavi**. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans federated learning, differentially private training, and knowledge distillation. I am also a student researcher at **Google Research** in the **Algorithms and Optimization** team. Before this, I was a student researcher at **Google DeepMind** in 2023, a research intern at **Google Research** in 2021, and an applied scientist intern at **Amazon** in 2020.
+I am a fifth-year PhD candidate in the Computer Science Department of **UT Austin**. I am fortunate to be advised by Prof. **Inderjit S. Dhillon** and Prof. **Sujay Sanghavi**. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans adaptive optimization algorithms, knowledge distillation, differentially private training, and federated learning. I am also a student researcher at **Google Research** in the **Algorithms and Optimization** team. Before this, I was a student researcher at **Google DeepMind** in 2023, a research intern at **Google Research** in 2021, and an applied scientist intern at **Amazon** in 2020.
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I worked under the guidance of Prof. **Subhasis Chaudhuri**. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
 
 You can check out my old CV [here]({{ site.url }}/assets/CV.pdf). My email is rdas(at)utexas(dot)edu.
 
 **<font size="+3">Papers</font>**
+
+* "**Towards Quantifying the Preconditioning Effect of Adam**" - **Rudrajit Das**, Naman Agarwal, Sujay Sanghavi and Inderjit S. Dhillon.
+
+    Preprint. Download <a href="https://arxiv.org/abs/2402.07114" style="color: #0000FF">here</a>.
+
+* "**Understanding the Training Speedup from Sampling with Approximate Losses**" - **Rudrajit Das**, Xi Chen, Bertram Ieong, Parikshit Bansal and Sujay Sanghavi.
+
+    Preprint. Download <a href="https://arxiv.org/abs/2402.07052" style="color: #0000FF">here</a>.
 
 * "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
    
