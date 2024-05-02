@@ -24,7 +24,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_website.pdf). My email i
 
 * "**Understanding the Training Speedup from Sampling with Approximate Losses**" - **Rudrajit Das**, Xi Chen, Bertram Ieong, Parikshit Bansal and Sujay Sanghavi.
 
-    Preprint. Download <a href="https://arxiv.org/abs/2402.07052" style="color: #0000FF">here</a>.
+    ICML 2024. Download preprint <a href="https://arxiv.org/abs/2402.07052" style="color: #0000FF">here</a>.
 
 * "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
    
