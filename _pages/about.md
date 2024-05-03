@@ -16,6 +16,8 @@ Previously, I was a dual degree (combined bachelor's and master's degree) studen
 
 You can check out my CV [here]({{ site.url }}/assets/CV_website.pdf). My email is rdas(at)utexas(dot)edu.
 
+**I am seeking industry research positions in the 2024-25 cycle. Feel free to reach out if you think I will be a good fit.**
+
 **<font size="+3">Papers</font>**
 
 * "**Towards Quantifying the Preconditioning Effect of Adam**" - **Rudrajit Das**, Naman Agarwal, Sujay Sanghavi and Inderjit S. Dhillon.
