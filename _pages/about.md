@@ -34,7 +34,7 @@ You can check out my CV [here]({{ site.url }}/assets/CV_website.pdf). My email i
 
 * "**On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data**" - Jianyu Wang, **Rudrajit Das**, Gauri Joshi, Satyen Kale, Zheng Xu and Tong Zhang.
 
-    Preprint. Download <a href="https://arxiv.org/abs/2206.04723" style="color: #0000FF">here</a>.
+    TMLR. Download preprint <a href="https://arxiv.org/abs/2206.04723" style="color: #0000FF">here</a>.
 
 * "**Beyond Uniform Lipschitz Condition in Differentially Private Optimization**" - **Rudrajit Das**, Satyen Kale, Zheng Xu, Tong Zhang and Sujay Sanghavi.
 
