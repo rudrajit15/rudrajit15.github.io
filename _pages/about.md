@@ -30,7 +30,7 @@ You can check out my old CV [here]({{ site.url }}/assets/CV_website.pdf). My ema
 
 * "**Understanding the Training Speedup from Sampling with Approximate Losses**" - **Rudrajit Das**, Xi Chen, Bertram Ieong, Parikshit Bansal and Sujay Sanghavi.
 
-    ICML 2024. Download preprint <a href="https://arxiv.org/abs/2402.07052" style="color: #0000FF">here</a>.
+    ICML 2024. Download paper <a href="https://openreview.net/pdf/d3f58fe5de95e47b4f05e4c964d14b536ec6d510.pdf" style="color: #0000FF">here</a>.
 
 * "**Understanding Self-Distillation in the Presence of Label Noise**" - **Rudrajit Das** and Sujay Sanghavi.
    
