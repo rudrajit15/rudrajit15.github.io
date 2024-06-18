@@ -22,7 +22,7 @@ You can check out my old CV [here]({{ site.url }}/assets/CV_website.pdf). My ema
 
 * "**Retraining with Predicted Hard Labels Provably Increases Model Accuracy**" - **Rudrajit Das**, Inderjit S. Dhillon, Alessandro Epasto, Adel Javanmard, Jieming Mao, Vahab Mirrokni, Sujay Sanghavi and Peilin Zhong.
 
-    Preprint coming soon!
+    Preprint. Download <a href="https://arxiv.org/abs/2406.11206" style="color: #0000FF">here</a>.
 
 * "**Towards Quantifying the Preconditioning Effect of Adam**" - **Rudrajit Das**, Naman Agarwal, Sujay Sanghavi and Inderjit S. Dhillon.
 
