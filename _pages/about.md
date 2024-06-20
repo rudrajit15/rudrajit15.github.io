@@ -14,7 +14,7 @@ I am a fifth-year PhD candidate in the Computer Science Department of **UT Austi
 
 Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I worked under the guidance of Prof. **Subhasis Chaudhuri**. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
 
-You can check out my old CV [here]({{ site.url }}/assets/CV_website.pdf). My email is rdas(at)utexas(dot)edu.
+You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). My email is rdas(at)utexas(dot)edu.
 
 **I am seeking industry research positions in the 2024-25 cycle. Feel free to reach out if you think I will be a good fit.**
 
