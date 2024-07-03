@@ -81,7 +81,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 * **Student Researcher at Google Research (Remote)** (November '23 - March '24) <br/>
     *Host: Alessandro Epasto* <br/>
-    * Working on improving label differential privacy (DP) using ideas from self-distillation with theoretical analysis. <br/>
+    * Theoretically showed that retraining with predicted hard labels improves model accuracy in the presence of label noise. Empirically we showed that retraining appropriately can significantly improve training with label differential privacy.  <br/>
     
 * **Student Researcher at Google DeepMind, Princeton, NJ, USA** (June '23 - October '23) <br/>
     *Host: Naman Agarwal* <br/>
