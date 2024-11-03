@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Howdy!
-
-I am a final-year PhD candidate in the Computer Science Department of UT Austin, advised by Prof. Inderjit S. Dhillon and Prof. Sujay Sanghavi. During my PhD, I have interned at Google DeepMind, Google Research, and Amazon. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans adaptive optimization, knowledge distillation, differentially private training, and federated learning. Previously, I received the combined B.Tech. and M.Tech. degree in Electrical Engineering from IIT Bombay. Here I worked under the guidance of Prof. Subhasis Chaudhuri and I was awarded the Undergraduate Research Award.
+Howdy! I am a final-year PhD candidate in the Computer Science Department of UT Austin, advised by Prof. Inderjit S. Dhillon and Prof. Sujay Sanghavi. During my PhD, I have interned at Google DeepMind, Google Research, and Amazon. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans adaptive optimization, knowledge distillation, differentially private training, and federated learning. Previously, I received the combined B.Tech. and M.Tech. degree in Electrical Engineering from IIT Bombay. Here I worked under the guidance of Prof. Subhasis Chaudhuri and I was awarded the Undergraduate Research Award.
 
 *I will join Google Research as a Research Scientist in 2025*! 
 
