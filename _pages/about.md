@@ -10,13 +10,9 @@ redirect_from:
 
 Howdy!
 
-I am a final-year PhD candidate in the Computer Science Department of **UT Austin**. I am fortunate to be advised by Prof. **Inderjit S. Dhillon** and Prof. **Sujay Sanghavi**. I am also a student researcher at **Google Research** in the **Algorithms and Optimization** team. I have also interned at **Google DeepMind Princeton**, **Google Research** in the **Learning Theory** and **Federated Learning** teams, and **Amazon**. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans adaptive optimization, knowledge distillation, differentially private training, and federated learning. 
-
-Previously, I was a dual degree (combined bachelor's and master's degree) student in the Department of Electrical Engineering, **Indian Institute of Technology** (**IIT**) **Bombay**. At IIT Bombay, I worked under the guidance of Prof. **Subhasis Chaudhuri**. I was awarded the Undergraduate Research Award (URA-03) for exceptional work in my final thesis.
+I am a final-year PhD candidate in the Computer Science Department of UT Austin. I am fortunate to be advised by Prof. Inderjit S. Dhillon and Prof. Sujay Sanghavi. I will join Google Research as a Research Scientist in 2025! During my PhD, I have interned at Google DeepMind, Google Research, and Amazon. Broadly speaking, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning. My research spans adaptive optimization, knowledge distillation, differentially private training, and federated learning. Previously, I received the combined B.Tech. and M.Tech. degree in Electrical Engineering from IIT Bombay. Here I worked under the guidance of Prof. Subhasis Chaudhuri and I was awarded the Undergraduate Research Award.
 
 You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). My email is rdas(at)utexas(dot)edu.
-
-**I am seeking industry research positions in the 2024-25 cycle. Feel free to reach out if you think I will be a good fit.**
 
 **<font size="+3">Papers</font>**
 
