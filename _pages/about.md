@@ -75,11 +75,15 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 **<font size="+3">Internships</font>**
 
+* **Student Researcher at Google Research, New York City, NY** (June '24 - August '24) <br/>
+    *Host: Kyriakos Axiotis* <br/>
+    * Worked on improving the quality of pruned large language models.  <br/>
+
 * **Student Researcher at Google Research (Remote)** (November '23 - March '24) <br/>
     *Host: Alessandro Epasto* <br/>
     * Theoretically showed that retraining with predicted hard labels improves model accuracy in the presence of label noise. Empirically we showed that retraining appropriately can significantly improve training with label differential privacy.  <br/>
     
-* **Student Researcher at Google DeepMind, Princeton, NJ, USA** (June '23 - October '23) <br/>
+* **Student Researcher at Google DeepMind, Princeton, NJ** (June '23 - October '23) <br/>
     *Host: Naman Agarwal* <br/>
     * Derived new theoretical results to quantify the preconditioning effect of the Adam optimizer, and empirically benchmarked several optimization algorithms based on Adam. <br/>
     
@@ -87,7 +91,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
     *Hosts: Zheng Xu, Satyen Kale, and Tong Zhang* <br/>
     * Clipped gradient methods are commonly used in practice for differentially private (DP) training, e.g., DP-SGD. However, a sound theoretical understanding of these methods has been elusive. We provide principled guidance on choosing the clipping threshold in DP-SGD and also derive novel convergence results for DP-SGD in heavy-tailed settings. <br/>
 
-* **Applied Scientist Intern at Amazon Search (Remote), Berkeley, CA, USA** (May '20 - August '20) <br/>
+* **Applied Scientist Intern at Amazon Search (Remote), Berkeley, CA** (May '20 - August '20) <br/>
     *Mentor: Dan Hill, Manager: Sujay Sanghavi* <br/>
     * Worked on customer-specific query correction by leveraging the "session data" (i.e. previous searches of the customer) using SOTA Transformer models. Our model generated better candidates than the production system. <br/>
 
