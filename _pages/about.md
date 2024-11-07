@@ -91,7 +91,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
     *Hosts: Zheng Xu, Satyen Kale, and Tong Zhang* <br/>
     * Clipped gradient methods are commonly used in practice for differentially private (DP) training, e.g., DP-SGD. However, a sound theoretical understanding of these methods has been elusive. We provide principled guidance on choosing the clipping threshold in DP-SGD and also derive novel convergence results for DP-SGD in heavy-tailed settings. <br/>
 
-* **Applied Scientist Intern at Amazon Search (Remote), Berkeley, CA** (May '20 - August '20) <br/>
+* **Applied Scientist Intern at Amazon Search, Berkeley, CA** (May '20 - August '20) <br/>
     *Mentor: Dan Hill, Manager: Sujay Sanghavi* <br/>
     * Worked on customer-specific query correction by leveraging the "session data" (i.e. previous searches of the customer) using SOTA Transformer models. Our model generated better candidates than the production system. <br/>
 
