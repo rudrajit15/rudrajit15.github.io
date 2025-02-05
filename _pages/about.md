@@ -16,7 +16,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 **<font size="+3">Papers</font>**
 
-* "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - Sunny Sanyal^, Hayden Prairie^, **Rudrajit Das**^, Ali Kavis^, and Sujay Sanghavi (^ denotes equal contribution).
+* "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - Sunny Sanyal\*, Hayden Prairie\*, **Rudrajit Das**\*, Ali Kavis\*, and Sujay Sanghavi (\* denotes equal contribution).
 
     Preprint coming soon!
 
