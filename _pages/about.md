@@ -52,7 +52,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
     UAI 2022. Download paper <a href="https://proceedings.mlr.press/v180/das22b.html" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2012.04061.pdf" style="color: #0000FF">here</a>.
 
-* "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya^, **Rudrajit Das**^, Haris Vikalo, Sujay Sanghavi, and Inderjit Dhillon (^ denotes equal contribution).
+* "**On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized Optimization**" - Abolfazl Hashemi, Anish Acharya\*, **Rudrajit Das**\*, Haris Vikalo, Sujay Sanghavi, and Inderjit Dhillon (\* denotes equal contribution).
 
     IEEE Transactions on Parallel and Distributed Systems. Download paper <a href="https://ieeexplore.ieee.org/abstract/document/9664349" style="color: #0000FF">here</a> and preprint <a href="https://arxiv.org/pdf/2011.10643.pdf" style="color: #0000FF">here</a>.
     
@@ -72,7 +72,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
     IEEE International Conference on Machine Learning and Applications (ICMLA) 2018 Oral. Download paper <a href="https://arxiv.org/abs/1809.02497" style="color: #0000FF">here</a>.
 
-* **iFood Challenge, FGVC Workshop, CVPR 2018** - Parth Kothari^, Arka Sadhu^, Aditya Golatkar^, and **Rudrajit Das**^ (^ denotes equal contribution).
+* **iFood Challenge, FGVC Workshop, CVPR 2018** - Parth Kothari\*, Arka Sadhu\*, Aditya Golatkar\*, and **Rudrajit Das**\* (\* denotes equal contribution).
 
     Finished $2^{nd}$ in the public leaderboard and $3^{rd}$ in the private leaderboard (Team name: Invincibles). <a href="https://www.kaggle.com/c/ifood2018/leaderboard" style="color: #0000FF">Leaderboard Link</a>.
     Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
