@@ -18,6 +18,8 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 * "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - Sunny Sanyal^, Hayden Prairie^, **Rudrajit Das**^, Ali Kavis^, and Sujay Sanghavi (^ denotes equal contribution).
 
+    Preprint coming soon!
+
 * "**Retraining with Predicted Hard Labels Provably Increases Model Accuracy**" - **Rudrajit Das**, Inderjit S. Dhillon, Alessandro Epasto, Adel Javanmard, Jieming Mao, Vahab Mirrokni, Sujay Sanghavi, and Peilin Zhong.
 
     Preprint. Download <a href="https://arxiv.org/abs/2406.11206" style="color: #0000FF">here</a>.
