@@ -75,7 +75,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 * **iFood Challenge, FGVC Workshop, CVPR 2018** - P Kothari\*, A Sadhu\*, A Golatkar\*, and **R Das**\* (\* denotes equal contribution).
 
     Finished $2^{nd}$ in the public leaderboard and $3^{rd}$ in the private leaderboard (Team name: Invincibles). <a href="https://www.kaggle.com/c/ifood2018/leaderboard" style="color: #0000FF">Leaderboard Link</a>.
-    Invited to present our method at CVPR 2018 (slides can be found  <a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">here</a>).
+    Invited to present our method at CVPR 2018 (<a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">slides</a>).
 
 **<font size="+3">Internships</font>**
 
