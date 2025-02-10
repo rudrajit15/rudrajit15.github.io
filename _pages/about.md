@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I completed my PhD in Computer Science at UT Austin, advised by Prof. Sujay Sanghavi and Prof. Inderjit S. Dhillon. I will join Google Research as a Research Scientist. I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning (ML), especially under data-centric constraints. In general, I like to develop theoretically grounded ML algorithms.
+Howdy! I am a research scientist at Google Research. I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning (ML), especially under data-centric constraints. In general, I like to develop theoretically grounded ML algorithms.
 
-Previously, I received the combined B.Tech. and M.Tech. degree in Electrical Engineering from IIT Bombay. Here I worked under the guidance of Prof. Subhasis Chaudhuri and I was awarded the Undergraduate Research Award.
+I recently completed my PhD in Computer Science at UT Austin, advised by Prof. Sujay Sanghavi and Prof. Inderjit S. Dhillon. Before that, I received the combined B.Tech. and M.Tech. degree in Electrical Engineering from IIT Bombay. Here I worked with Prof. Subhasis Chaudhuri and was awarded the Undergraduate Research Award.
 
 You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). My email is rdas(at)utexas(dot)edu.
 
