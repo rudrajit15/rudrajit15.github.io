@@ -18,15 +18,15 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 * "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - S Sanyal\*, H Prairie\*, **R Das**\*, A Kavis\*, and S Sanghavi (\* denotes equal contribution).
 
-    Preprint. Download <a href="https://arxiv.org/abs/2502.02797" style="color: #0000FF">here</a>.
+    ICML 2025 (*spotlight*). Download preprint <a href="https://arxiv.org/abs/2502.02797" style="color: #0000FF">here</a>.
 
 * "**Retraining with Predicted Hard Labels Provably Increases Model Accuracy**" - **R Das**, I S Dhillon, A Epasto, A Javanmard, J Mao, V Mirrokni, S Sanghavi, and P Zhong.
 
-    Preprint. Download <a href="https://arxiv.org/abs/2406.11206" style="color: #0000FF">here</a>.
+    ICML 2025. Download <a href="https://arxiv.org/abs/2406.11206" style="color: #0000FF">here</a>.
 
 * "**Towards Quantifying the Preconditioning Effect of Adam**" - **R Das**, N Agarwal, S Sanghavi, and I S Dhillon.
 
-    Preprint. Download <a href="https://arxiv.org/abs/2402.07114" style="color: #0000FF">here</a>.
+    Preprint. Download preprint <a href="https://arxiv.org/abs/2402.07114" style="color: #0000FF">here</a>.
 
 * "**Understanding the Training Speedup from Sampling with Approximate Losses**" - **R Das**, X Chen, B Ieong, P Bansal, and S Sanghavi.
 
