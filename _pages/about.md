@@ -22,7 +22,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 * "**Retraining with Predicted Hard Labels Provably Increases Model Accuracy**" - **R Das**, I S Dhillon, A Epasto, A Javanmard, J Mao, V Mirrokni, S Sanghavi, and P Zhong.
 
-    ICML 2025. Download <a href="https://arxiv.org/abs/2406.11206" style="color: #0000FF">here</a>.
+    ICML 2025. Download preprint <a href="https://arxiv.org/abs/2406.11206" style="color: #0000FF">here</a>.
 
 * "**Towards Quantifying the Preconditioning Effect of Adam**" - **R Das**, N Agarwal, S Sanghavi, and I S Dhillon.
 
