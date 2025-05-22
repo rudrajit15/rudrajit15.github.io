@@ -18,7 +18,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 * "**Self-Boost via Optimal Retraining: An Analysis via Approximate Message Passing**" - A Javanmard, **R Das**, A Epasto, and V Mirrokni.
 
-    Preprint. Download preprint <a href="https://arxiv.org/abs/2505.15195" style="color: #0000FF">here</a>.
+    Preprint. Download <a href="https://arxiv.org/abs/2505.15195" style="color: #0000FF">here</a>.
 
 * "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - S Sanyal\*, H Prairie\*, **R Das**\*, A Kavis\*, and S Sanghavi (\* denotes equal contribution).
 
@@ -30,7 +30,7 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 * "**Towards Quantifying the Preconditioning Effect of Adam**" - **R Das**, N Agarwal, S Sanghavi, and I S Dhillon.
 
-    Preprint. Download preprint <a href="https://arxiv.org/abs/2402.07114" style="color: #0000FF">here</a>.
+    Preprint. Download <a href="https://arxiv.org/abs/2402.07114" style="color: #0000FF">here</a>.
 
 * "**Understanding the Training Speedup from Sampling with Approximate Losses**" - **R Das**, X Chen, B Ieong, P Bansal, and S Sanghavi.
 
