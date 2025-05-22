@@ -16,6 +16,10 @@ You can check out my outdated CV [here]({{ site.url }}/assets/CV_website.pdf). M
 
 **<font size="+3">Papers</font>**
 
+* "**Self-Boost via Optimal Retraining: An Analysis via Approximate Message Passing**" - A Javanmard, **R Das**, A Epasto, and V Mirrokni.
+
+    Preprint. Download preprint <a href="https://arxiv.org/abs/2505.15195" style="color: #0000FF">here</a>.
+
 * "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - S Sanyal\*, H Prairie\*, **R Das**\*, A Kavis\*, and S Sanghavi (\* denotes equal contribution).
 
     ICML 2025 (*spotlight*). Download preprint <a href="https://arxiv.org/abs/2502.02797" style="color: #0000FF">here</a>.
