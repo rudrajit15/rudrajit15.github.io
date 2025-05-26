@@ -80,29 +80,3 @@ I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay San
 
     Finished $2^{nd}$ in the public leaderboard and $3^{rd}$ in the private leaderboard (Team name: Invincibles). <a href="https://www.kaggle.com/c/ifood2018/leaderboard" style="color: #0000FF">Leaderboard Link</a>.
     Invited to present our method at CVPR 2018 (<a href="https://drive.google.com/file/d/1ycgDwlw62mWgaLy5qslvqjyiND0vgYTG/view?usp=sharing" style="color: #0000FF">slides</a>).
-
-**<font size="+3">Internships</font>**
-
-* **Student Researcher at Google Research, New York City, NY** (June '24 - August '24) <br/>
-    *Host: Kyriakos Axiotis* <br/>
-    * Worked on improving the quality of pruned large language models.  <br/>
-
-* **Student Researcher at Google Research (Remote)** (November '23 - March '24) <br/>
-    *Host: Alessandro Epasto* <br/>
-    * Theoretically showed that retraining with predicted hard labels improves model accuracy in the presence of label noise. Empirically we showed that retraining appropriately can significantly improve training with label differential privacy.  <br/>
-    
-* **Student Researcher at Google DeepMind, Princeton, NJ** (June '23 - October '23) <br/>
-    *Host: Naman Agarwal* <br/>
-    * Derived new theoretical results to quantify the preconditioning effect of the Adam optimizer, and empirically benchmarked several optimization algorithms based on Adam. <br/>
-    
-* **Research Intern at Google (Remote)** (June '21 - August '21) <br/>
-    *Hosts: Zheng Xu, Satyen Kale, and Tong Zhang* <br/>
-    * Clipped gradient methods are commonly used in practice for differentially private (DP) training, e.g., DP-SGD. However, a sound theoretical understanding of these methods has been elusive. We provide principled guidance on choosing the clipping threshold in DP-SGD and also derive novel convergence results for DP-SGD in heavy-tailed settings. <br/>
-
-* **Applied Scientist Intern at Amazon Search, Berkeley, CA** (May '20 - August '20) <br/>
-    *Mentor: Dan Hill, Manager: Sujay Sanghavi* <br/>
-    * Worked on customer-specific query correction by leveraging the "session data" (i.e. previous searches of the customer) using SOTA Transformer models. Our model generated better candidates than the production system. <br/>
-
-* **Institute for Biomechanics, ETH Zürich, Zürich, Switzerland** (May '17 - July '17) <br/>
-    *Guide : Dr. Patrik Christen and Prof. Dr. Ralph Müller, D-HEST* <br/>
-    * Proposed a stable linear model (with closed-form solution) and a fuzzy boolean network for bone remodeling. Also developed an automated 2D-3D image registration framework for histology images from scratch. <br/>
