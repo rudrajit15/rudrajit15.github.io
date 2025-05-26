@@ -12,7 +12,7 @@ Howdy! I am a **research scientist** at **Google Research**. I am interested in 
 
 I recently completed my PhD in Computer Science at UT Austin, advised by Prof. Sujay Sanghavi and Prof. Inderjit S. Dhillon. Before that, I received the combined B.Tech. and M.Tech. degree in Electrical Engineering from IIT Bombay. Here I worked with Prof. Subhasis Chaudhuri and received the Undergraduate Research Award.
 
-[[CV]]({{ site.url }}/assets/CV_May_2025.pdf).
+[[CV]]({{ site.url }}/assets/CV_May_2025.pdf)
 
 **<font size="+3">Papers</font>**
 
