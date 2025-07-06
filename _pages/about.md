@@ -22,11 +22,11 @@ I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay San
 
 * "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - S Sanyal\*, H Prairie\*, **R Das**\*, A Kavis\*, and S Sanghavi (\* denotes equal contribution).
 
-    ICML 2025 (*spotlight*). Download preprint <a href="https://arxiv.org/abs/2502.02797" style="color: #0000FF">here</a>.
+    ICML 2025 (*spotlight*). Download paper <a href="https://openreview.net/pdf?id=13HPTmZKbM" style="color: #0000FF">here</a>.
 
 * "**Retraining with Predicted Hard Labels Provably Increases Model Accuracy**" - **R Das**, I S Dhillon, A Epasto, A Javanmard, J Mao, V Mirrokni, S Sanghavi, and P Zhong.
 
-    ICML 2025. Download preprint <a href="https://arxiv.org/abs/2406.11206" style="color: #0000FF">here</a>.
+    ICML 2025. Download paper <a href="https://openreview.net/pdf?id=qbIcZLSvmH" style="color: #0000FF">here</a>.
 
 * "**Towards Quantifying the Preconditioning Effect of Adam**" - **R Das**, N Agarwal, S Sanghavi, and I S Dhillon.
 
