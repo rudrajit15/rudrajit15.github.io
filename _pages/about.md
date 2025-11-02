@@ -18,7 +18,7 @@ I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay San
 
 * "**Self-Boost via Optimal Retraining: An Analysis via Approximate Message Passing**" - A Javanmard, **R Das**, A Epasto, and V Mirrokni.
 
-    NeurIPS 2025. Download preprint <a href="https://arxiv.org/abs/2505.15195" style="color: #0000FF">here</a>.
+    NeurIPS 2025. Download paper <a href="https://openreview.net/pdf?id=fozfLcLAEt" style="color: #0000FF">here</a>.
 
 * "**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**" - S Sanyal\*, H Prairie\*, **R Das**\*, A Kavis\*, and S Sanghavi (\* denotes equal contribution).
 
