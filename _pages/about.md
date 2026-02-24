@@ -16,6 +16,10 @@ I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay San
 
 **<font size="+3">Papers</font>**
 
+* "**Less is More: Convergence Benefits of Fewer Data Weight Updates over Longer Horizon**" - **R Das**, N Patel, M Razaviyayn, and V Mirrokni.
+
+  Preprint. Download <a href="https://arxiv.org/pdf/2602.19510" style="color: #0000FF">here</a>.
+
 * "**Differentially Private Minimum Spanning Tree in Euclidean Graphs**" - Z Zou, A Epasto, C Fan, and **R Das**.
 
     AISTATS 2026. (Paper coming soon)
