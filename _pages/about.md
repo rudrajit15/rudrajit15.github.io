@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a **research scientist** at **Google Research**. I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning (ML), especially under data-centric constraints such as restricted data access (e.g., due to privacy), poor data quality, computational limits imposed by large-scale data, and beyond. In general, I like to develop theoretically grounded ML algorithms.
+Howdy! I am a **research scientist** at **Google Research**. Right now, I work on post-training and agentic-style inferencing with Google's foundation models. On the academic side, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning (ML), especially under data-centric constraints such as restricted data access (e.g., due to privacy), poor data quality, computational limits imposed by large-scale data, and beyond. In general, I like to develop theoretically grounded ML algorithms.
 
 I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay Sanghavi and Prof. Inderjit S. Dhillon. Before that, I received the B.Tech. and M.Tech. degrees in Electrical Engineering from IIT Bombay. Here, I worked with Prof. Subhasis Chaudhuri and received the Undergraduate Research Award.
 
