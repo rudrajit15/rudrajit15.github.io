@@ -12,7 +12,7 @@ Howdy! I am a Senior Research Scientist at Google Research. Right now, I work on
 
 I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay Sanghavi and Prof. Inderjit S. Dhillon. Before that, I received the B.Tech. and M.Tech. degrees in Electrical Engineering from IIT Bombay. Here, I worked with Prof. Subhasis Chaudhuri and received the Undergraduate Research Award.
 
-[[(Outdated) CV]]({{ site.url }}/assets/CV_May_2025.pdf)
+[(Outdated) CV]({{ site.url }}/assets/CV_May_2025.pdf)
 
 **<font size="+3">Papers</font>**
 
