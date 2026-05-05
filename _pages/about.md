@@ -22,7 +22,7 @@ I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay San
 
 * "**Differentially Private Minimum Spanning Tree in Euclidean Graphs**" - Z Zou, A Epasto, C Fan, and **R Das**.
 
-    AISTATS 2026. (Paper coming soon)
+    AISTATS 2026. Download paper <a href="https://openreview.net/pdf?id=Nr5IzX8Bge" style="color: #0000FF">here</a>.
 
 * "**Self-Boost via Optimal Retraining: An Analysis via Approximate Message Passing**" - A Javanmard, **R Das**, A Epasto, and V Mirrokni.
 
