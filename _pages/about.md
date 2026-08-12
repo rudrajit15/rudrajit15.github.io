@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a Senior Research Scientist at Google Research. Recently, I've been working on Gemini post-training (mainly RL), post-training data generation, and agentic-style inferencing with Gemini. On the academic side, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning (ML), especially under data-centric constraints such as restricted data access (e.g., due to privacy), poor data quality, computational limits imposed by large-scale data, and beyond. In general, I like to develop theoretically grounded ML algorithms.
+Howdy! I am a Senior Research Scientist at Google Research in the Algorithms and Optimization group. Recently, I've been working on Gemini post-training (mainly RL), post-training data generation, and agentic-style inferencing with Gemini. On the academic side, I am interested in developing provably better optimization algorithms and generalization-improving techniques for machine learning (ML), especially under data-centric constraints such as restricted data access (e.g., due to privacy), poor data quality, computational limits imposed by large-scale data, and beyond. In general, I like to develop theoretically grounded ML algorithms.
 
 I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay Sanghavi and Prof. Inderjit S. Dhillon. Before that, I received the B.Tech. and M.Tech. degrees in Electrical Engineering from IIT Bombay. Here, I worked with Prof. Subhasis Chaudhuri and received the Undergraduate Research Award.
 
