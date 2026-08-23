@@ -16,6 +16,10 @@ I obtained my PhD in Computer Science from UT Austin, advised by Prof. Sujay San
 
 **<font size="+3">Papers</font>**
 
+* "**TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability**" - V Cohen-Addad, D Paparas, E van Wijland, M Springer, J Canitrot-Paradis, H Lin, D Woodruff, A Kumarappan, R Jayaram, **R Das**, L Jain, O Svensson, S Lattanzi, M Balunovic, T Weber, and V Mirrokni.
+  
+  Preprint. Download <a href="https://arxiv.org/abs/2608.09538" style="color: #0000FF">here</a>.
+
 * "**Less is More: Convergence Benefits of Fewer Data Weight Updates over Longer Horizon**" - **R Das**, N Patel, M Razaviyayn, and V Mirrokni.
 
   Preprint. Download <a href="https://arxiv.org/pdf/2602.19510" style="color: #0000FF">here</a>.
